@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-    <div id="booksInput" hidden>
+    <div id="booksInput"  >
 
         <div class="col-md-4 m-5">
             <label for="validationServer01" class="form-label">Number of books</label>
@@ -19,36 +19,55 @@
             <button disabled id ="booksButton"class="btn btn-primary" type="submit">Submit form</button>
         </div>
     </div>
-    <div id = "books-data" class="m-3 books-data" >
+    <div hidden id = "books-data" class="m-3 books-data" >
 
 
             <div class="col-md-8">
-                <label for="validationDefault01" class="form-label">First name</label>
-                <input type="text" class="form-control is-invalid" id="book-name"  required>
+                <label for="validationDefault01" class="form-label" >Book name</label>
+                <input type="text" class="form-control is-invalid" value="abcd" id="book-name"  required>
             </div>
             <div class="col-md-8">
               <label for="validationDefault02" class="form-label pt-2">Price</label>
-              <input type="text" class="form-control is-invalid" id="book-price"  required>
+              <input type="text" class="form-control is-invalid" value="2223"id="book-price"  required>
             </div>
            
             <div class="col-md-8">
               <label for="validationDefault02" class="form-label pt-2">Author name</label>
-              <input type="text" class="form-control is-invalid" id="author-name"  required>
+              <input type="text" class="form-control is-invalid" value="abcd" id="author-name"  required>
             </div>
 
             <div class="col-md-8">
               <label for="validationDefault02" class="form-label pt-2">Author email</label>
-              <input type="text" class="form-control is-invalid" id="author-email"  required>
+              <input type="text" class="form-control is-invalid" value="abcd" id="author-email"  required>
             </div>
            
             
             <div class="col-12 mt-3">
               <button class="btn btn-primary" id="submit-book" type="submit">Submit book</button><br>
-              <label hidden id="label2" for="WrongData" class="form-label label2 pt-2">Please Enter valid data</label>
+              <label id="label2" for="WrongData" class="form-label label2 pt-2">Please Enter valid data</label>
 
             </div>
 
 
+    </div>
+
+    <div id="books-table-data" hidden class="mt-5" >
+      <table class="table">
+        <thead >
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col" >Book name</th>
+            <th scope="col">Price</th>
+            <th scope="col">author name</th>
+            <th scope="col">author email</th>
+            <th scope="col" colspan="2"  style="text-align: center;" >Buttons</th>
+          </tr>
+        </thead>
+        <tbody id="table-body">
+         
+          
+        </tbody>
+      </table>
     </div>
 
     <script src="main.js"></script>
