@@ -1,0 +1,42 @@
+body
+{
+    margin: 0;
+    font-family: tahoma;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu-holder
+{
+    width: 90%;
+    margin: 0px auto;
+    padding-top:20px;
+}
+.menu ul li
+{
+    display: inline-block;
+    /* width: 80px; */
+    margin: 0px 10px;
+    padding-bottom: 30px;
+    border-bottom: 3px solid white;
+}
+.menu
+{
+    float: right;
+}
+.logo
+{
+    float: left;
+    padding-top: 15px;
+}
+.clear-float
+{
+    clear: both;
+}
+.menu ul li:hover{
+    color: orangered;
+    /* text-decoration: underline; */
+    border-bottom: 3px solid orangered;
+}

@@ -1,0 +1,11 @@
+browser :
+1 - html ==> hyper text markup lang <> ==> content (structure)
+2 - CSS ==> cascading Style sheet ==> ppt
+3 - JS ==> Javascript ==> behavior
+
+- - html
+<>
+<html> ==> tagname opening tagname
+</html> ==> closing tagname
+
+self closing tag == > <br /> <hr /> <img />

@@ -26,8 +26,6 @@ Rectangle.prototype.displayInfo = function () {
     console.log(`area = ${area}\nperimeter = ${perimeter}  `);
 }
 
-// Rectangle.count = (isNaN(Rectangle.count)?0:Rectangle.count) +1;
-// Rectangle.count = (Rectangle.count || 0) + 1;
 
 
 var r1 = new Rectangle(12,7);
