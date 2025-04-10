@@ -1,0 +1,12 @@
+body , .books-data{
+    background-color: gray;
+}
+
+label{
+    font-weight: 500;
+    color:aquamarine;
+}
+.label2{
+    font-weight: 500;
+    color:red;
+}
