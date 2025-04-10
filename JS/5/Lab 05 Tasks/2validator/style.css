@@ -1,0 +1,67 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+	/* background-color: #eee; */
+	/* padding: 1rem; */
+	margin: 3px;
+}
+
+.hidden {
+	display: none;
+	color:red
+}
+.container {
+	width: 50%;
+	margin: 50px auto;
+	background-color: #fff;
+	padding: 20px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  .gender-container{
+	margin: 10px;
+  }
+  .sports-container{
+	margin: 10px;
+  }
+  .country-container{
+	margin: 15px 0px 0px 20px;
+  }
+
+button {
+	width: 170px;
+	display: block;
+	border: none;
+	cursor: pointer;
+	color: #fff;
+	padding: 0.5rem 0.75rem;
+	background-color: rgb(7, 26, 68);
+	border-radius: 5px;
+	margin: 20px;
+}
+
+input[type="text"],input[type="email"],input[type="password"] {
+	margin: 2px 0px 20px 0px;
+	display: inline-block;
+	width: 300px;
+	padding: 10px;
+	border-radius: 5px;
+	outline: 0;
+	border: 1px solid #565353;
+}
+
+
+#submit {
+	background-color: rgb(19 155 19 / 83%);
+  }
+  #reset {
+	background-color:#e80000;
+  }
+
+
+label{
+	margin-right:30px ;
+}

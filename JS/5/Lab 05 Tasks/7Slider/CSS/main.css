@@ -1,0 +1,36 @@
+body{
+    background-color: #c5c5c5;
+}
+
+input,label{
+    margin-left: 10px;
+
+}
+
+button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 35px;
+    width: 120px;
+    height: 50px;
+    background-color: #1ac1d3;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+img{
+    margin-top: 10px;
+    width: 600px;
+    height: 600px;
+}
+#start{
+    background-color: green;
+}
+#stop{
+    background-color: red;
+}
+#prev,#start,#stop{
+    margin-right: 20px;
+}

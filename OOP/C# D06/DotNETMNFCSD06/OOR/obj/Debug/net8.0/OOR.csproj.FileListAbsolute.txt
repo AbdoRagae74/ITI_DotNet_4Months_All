@@ -1,0 +1,28 @@
+C:\Users\engmt\source\repos\DotNETMNFCSD06\OOR\bin\Debug\net8.0\OOR.exe
+C:\Users\engmt\source\repos\DotNETMNFCSD06\OOR\bin\Debug\net8.0\OOR.deps.json
+C:\Users\engmt\source\repos\DotNETMNFCSD06\OOR\bin\Debug\net8.0\OOR.runtimeconfig.json
+C:\Users\engmt\source\repos\DotNETMNFCSD06\OOR\bin\Debug\net8.0\OOR.dll
+C:\Users\engmt\source\repos\DotNETMNFCSD06\OOR\bin\Debug\net8.0\OOR.pdb
+C:\Users\engmt\source\repos\DotNETMNFCSD06\OOR\obj\Debug\net8.0\OOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\engmt\source\repos\DotNETMNFCSD06\OOR\obj\Debug\net8.0\OOR.AssemblyInfoInputs.cache
+C:\Users\engmt\source\repos\DotNETMNFCSD06\OOR\obj\Debug\net8.0\OOR.AssemblyInfo.cs
+C:\Users\engmt\source\repos\DotNETMNFCSD06\OOR\obj\Debug\net8.0\OOR.csproj.CoreCompileInputs.cache
+C:\Users\engmt\source\repos\DotNETMNFCSD06\OOR\obj\Debug\net8.0\OOR.dll
+C:\Users\engmt\source\repos\DotNETMNFCSD06\OOR\obj\Debug\net8.0\refint\OOR.dll
+C:\Users\engmt\source\repos\DotNETMNFCSD06\OOR\obj\Debug\net8.0\OOR.pdb
+C:\Users\engmt\source\repos\DotNETMNFCSD06\OOR\obj\Debug\net8.0\OOR.genruntimeconfig.cache
+C:\Users\engmt\source\repos\DotNETMNFCSD06\OOR\obj\Debug\net8.0\ref\OOR.dll
+E:\ITI DotNet\OOP\C# D06\DotNETMNFCSD06\OOR\bin\Debug\net8.0\OOR.exe
+E:\ITI DotNet\OOP\C# D06\DotNETMNFCSD06\OOR\bin\Debug\net8.0\OOR.deps.json
+E:\ITI DotNet\OOP\C# D06\DotNETMNFCSD06\OOR\bin\Debug\net8.0\OOR.runtimeconfig.json
+E:\ITI DotNet\OOP\C# D06\DotNETMNFCSD06\OOR\bin\Debug\net8.0\OOR.dll
+E:\ITI DotNet\OOP\C# D06\DotNETMNFCSD06\OOR\bin\Debug\net8.0\OOR.pdb
+E:\ITI DotNet\OOP\C# D06\DotNETMNFCSD06\OOR\obj\Debug\net8.0\OOR.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI DotNet\OOP\C# D06\DotNETMNFCSD06\OOR\obj\Debug\net8.0\OOR.AssemblyInfoInputs.cache
+E:\ITI DotNet\OOP\C# D06\DotNETMNFCSD06\OOR\obj\Debug\net8.0\OOR.AssemblyInfo.cs
+E:\ITI DotNet\OOP\C# D06\DotNETMNFCSD06\OOR\obj\Debug\net8.0\OOR.csproj.CoreCompileInputs.cache
+E:\ITI DotNet\OOP\C# D06\DotNETMNFCSD06\OOR\obj\Debug\net8.0\OOR.dll
+E:\ITI DotNet\OOP\C# D06\DotNETMNFCSD06\OOR\obj\Debug\net8.0\refint\OOR.dll
+E:\ITI DotNet\OOP\C# D06\DotNETMNFCSD06\OOR\obj\Debug\net8.0\OOR.pdb
+E:\ITI DotNet\OOP\C# D06\DotNETMNFCSD06\OOR\obj\Debug\net8.0\OOR.genruntimeconfig.cache
+E:\ITI DotNet\OOP\C# D06\DotNETMNFCSD06\OOR\obj\Debug\net8.0\ref\OOR.dll

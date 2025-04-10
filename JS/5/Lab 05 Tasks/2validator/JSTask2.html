@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS Task 2</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <div class="container"> 
+        <h1>Validator Game</h1>
+        <div class="inputs">
+            <label>Name</label>
+            <input type="text" id="name">
+            <p id="errorName" class="a hidden">Enter valid name</p>
+        </div>
+        <div class="inputs">
+            
+            <label>Email</label>
+            <input type="email" id="email">
+        <p id="errorEmail" class="a hidden">Enter valid email</p>
+    </div>
+    <div class="inputs">
+        
+        <label>Password</label>
+        <input type="password"  id="password">
+        <p id="errorPassword" class="a hidden">Please enter password at least 8 characters</p>
+    </div>
+    <div class="gender-container">
+        
+        <label>Gender</label>
+        <input type="radio" value="male" name="gender"> Male 
+        <input type="radio"  value="female" name="gender"> Female
+        <p id="errorGender" class="a hidden">Please select your gender</p>
+    </div>
+    <div class="sports-container">
+        
+        <label>Sports</label>
+        <input type="checkbox" name="sport" id="t" value="Tennis"> Tennis
+        <input type="checkbox" name="sport" id="r" value="Running"> Running
+        <input type="checkbox" name="sport" id="f" value="Football"> Football
+        <p id="errorSport" class="a hidden">2 Sports at least Required</p>
+    </div>
+    <div class="country-container">
+        <label>Country</label>
+        <form>
+            <select id="country" name="country">
+                <option value="abc">Select country</option>
+                <option value="Egypt">Egypt</option>
+                <option value="UK">United Kingdom</option>
+                <option value="Japan">Japan</option>
+                <option value="Germany">Germany</option>
+                <option value="France">France</option>
+                <option value="Canada">Canada</option>
+            </select>
+        </form>
+        <p id="errorCountry" class="a hidden">You must select a country</p>
+    </div>
+      <div class="btns">
+          <button id="submit" onclick="validateInputs()">Submit</button>
+          <button id="reset" onclick="resetInputs()">Reset</button>
+        </div>
+        
+    </div>
+        <script src="Task2.js"></script>
+        
+    </body>
+    </html>

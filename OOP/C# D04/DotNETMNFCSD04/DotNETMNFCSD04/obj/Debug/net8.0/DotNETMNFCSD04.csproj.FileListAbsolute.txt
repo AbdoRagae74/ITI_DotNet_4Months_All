@@ -1,0 +1,28 @@
+C:\Users\engmt\source\repos\DotNETMNFCSD04\DotNETMNFCSD04\bin\Debug\net8.0\DotNETMNFCSD04.exe
+C:\Users\engmt\source\repos\DotNETMNFCSD04\DotNETMNFCSD04\bin\Debug\net8.0\DotNETMNFCSD04.deps.json
+C:\Users\engmt\source\repos\DotNETMNFCSD04\DotNETMNFCSD04\bin\Debug\net8.0\DotNETMNFCSD04.runtimeconfig.json
+C:\Users\engmt\source\repos\DotNETMNFCSD04\DotNETMNFCSD04\bin\Debug\net8.0\DotNETMNFCSD04.dll
+C:\Users\engmt\source\repos\DotNETMNFCSD04\DotNETMNFCSD04\bin\Debug\net8.0\DotNETMNFCSD04.pdb
+C:\Users\engmt\source\repos\DotNETMNFCSD04\DotNETMNFCSD04\obj\Debug\net8.0\DotNETMNFCSD04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\engmt\source\repos\DotNETMNFCSD04\DotNETMNFCSD04\obj\Debug\net8.0\DotNETMNFCSD04.AssemblyInfoInputs.cache
+C:\Users\engmt\source\repos\DotNETMNFCSD04\DotNETMNFCSD04\obj\Debug\net8.0\DotNETMNFCSD04.AssemblyInfo.cs
+C:\Users\engmt\source\repos\DotNETMNFCSD04\DotNETMNFCSD04\obj\Debug\net8.0\DotNETMNFCSD04.csproj.CoreCompileInputs.cache
+C:\Users\engmt\source\repos\DotNETMNFCSD04\DotNETMNFCSD04\obj\Debug\net8.0\DotNETMNFCSD04.dll
+C:\Users\engmt\source\repos\DotNETMNFCSD04\DotNETMNFCSD04\obj\Debug\net8.0\refint\DotNETMNFCSD04.dll
+C:\Users\engmt\source\repos\DotNETMNFCSD04\DotNETMNFCSD04\obj\Debug\net8.0\DotNETMNFCSD04.pdb
+C:\Users\engmt\source\repos\DotNETMNFCSD04\DotNETMNFCSD04\obj\Debug\net8.0\DotNETMNFCSD04.genruntimeconfig.cache
+C:\Users\engmt\source\repos\DotNETMNFCSD04\DotNETMNFCSD04\obj\Debug\net8.0\ref\DotNETMNFCSD04.dll
+E:\ITI DotNet\OOP\C# D04\DotNETMNFCSD04\DotNETMNFCSD04\bin\Debug\net8.0\DotNETMNFCSD04.exe
+E:\ITI DotNet\OOP\C# D04\DotNETMNFCSD04\DotNETMNFCSD04\bin\Debug\net8.0\DotNETMNFCSD04.deps.json
+E:\ITI DotNet\OOP\C# D04\DotNETMNFCSD04\DotNETMNFCSD04\bin\Debug\net8.0\DotNETMNFCSD04.runtimeconfig.json
+E:\ITI DotNet\OOP\C# D04\DotNETMNFCSD04\DotNETMNFCSD04\bin\Debug\net8.0\DotNETMNFCSD04.dll
+E:\ITI DotNet\OOP\C# D04\DotNETMNFCSD04\DotNETMNFCSD04\bin\Debug\net8.0\DotNETMNFCSD04.pdb
+E:\ITI DotNet\OOP\C# D04\DotNETMNFCSD04\DotNETMNFCSD04\obj\Debug\net8.0\DotNETMNFCSD04.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI DotNet\OOP\C# D04\DotNETMNFCSD04\DotNETMNFCSD04\obj\Debug\net8.0\DotNETMNFCSD04.AssemblyInfoInputs.cache
+E:\ITI DotNet\OOP\C# D04\DotNETMNFCSD04\DotNETMNFCSD04\obj\Debug\net8.0\DotNETMNFCSD04.AssemblyInfo.cs
+E:\ITI DotNet\OOP\C# D04\DotNETMNFCSD04\DotNETMNFCSD04\obj\Debug\net8.0\DotNETMNFCSD04.csproj.CoreCompileInputs.cache
+E:\ITI DotNet\OOP\C# D04\DotNETMNFCSD04\DotNETMNFCSD04\obj\Debug\net8.0\DotNETMNFCSD04.dll
+E:\ITI DotNet\OOP\C# D04\DotNETMNFCSD04\DotNETMNFCSD04\obj\Debug\net8.0\refint\DotNETMNFCSD04.dll
+E:\ITI DotNet\OOP\C# D04\DotNETMNFCSD04\DotNETMNFCSD04\obj\Debug\net8.0\DotNETMNFCSD04.pdb
+E:\ITI DotNet\OOP\C# D04\DotNETMNFCSD04\DotNETMNFCSD04\obj\Debug\net8.0\DotNETMNFCSD04.genruntimeconfig.cache
+E:\ITI DotNet\OOP\C# D04\DotNETMNFCSD04\DotNETMNFCSD04\obj\Debug\net8.0\ref\DotNETMNFCSD04.dll

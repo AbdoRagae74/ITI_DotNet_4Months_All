@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bootstrap</title>
+    <link rel="stylesheet" href="bootstrap.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg custom-navbar">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#">Navbar</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Link</a>
+              </li>
+              <li class="nav-item dropdown">
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+
+      <div class="preview d-flex flex-column justify-content-center align-items-center">
+        <h2>Easy start with Vlava</h2>
+        <p>We are team of talented designers making websites with Bootstrap</p>
+        <button type="button" class="btn btn-outline-secondary btn-lg custom-button">Get Started</button>
+      </div>
+      <div class="about-section d-flex flex-column justify-content-center align-items-center">
+        <h2>About</h2>
+        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <div class="align-items-start" >
+            <h3>Voluptatem dignissimos provident quasi</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit</p>
+        </div>
+        <button type="button" class="btn btn-outline-secondary btn-lg py-2 custom-button">About Us</button>
+       </div>
+        
+       <div class="services row justify-content-center m-5">
+            <div class="col-md-5">
+                <i class="bi bi-briefcase" ></i>
+                <h4>
+                    <a href="#">
+                        Corporis voluptates sit
+                    </a>
+                </h4>
+                <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+            </div>
+            
+            <div class="col-md-5">
+                <i class="bi bi-gem"></i>
+                <h4>
+                    <a href="#" >
+                        Ullamco laboris nisi
+                    </a>
+                </h4>
+                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+            </div>
+            
+            <div class="col-md-5">
+                <i class="bi bi-broadcast"></i>
+                <h4>
+                    <a href="#" >
+                        Labore consequatur
+                    </a>
+                </h4>
+                <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+
+            </div>
+            <div class="col-md-5">
+                <i class="bi bi-easel"></i>
+
+                <h4>
+                    <a href="#">
+                        Beatae veritatis
+                    </a>
+                </h4>
+                <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+            </div>
+       </div>
+       <div class="slider ">
+        <div class="overlay"></div>
+       <div id="carouselExampleCaptions" class="carousel slide">
+        <div class="carousel-indicators">
+          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner">
+            <div class="size carousel-item active">
+                <div class="d-flex flex-row align-items-center justify-content-center h-100">
+                    <img class="image" src="https://bootstrapmade.com/content/demo/Vlava/assets/img/testimonials/testimonials-5.jpg" alt="...">
+                    <div class="carousel-caption d-block">
+                        <h3>Jena Karlis</h3>
+                        <h4>Store Owner</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="size carousel-item">
+                <div class="d-flex flex-row align-items-center justify-content-center h-100">
+                    <img class="image" src="https://bootstrapmade.com/content/demo/Vlava/assets/img/testimonials/testimonials-4.jpg" alt="...">
+                    <div class="carousel-caption d-block">
+                        <h3>Jena Karlis</h3>
+                        <h4>Store Owner</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="size carousel-item">
+                <div class="d-flex flex-column align-items-center justify-content-center h-100">
+                    <img class="image" src="https://bootstrapmade.com/content/demo/Vlava/assets/img/testimonials/testimonials-1.jpg" alt="...">
+                    <div class="carousel-caption d-block">
+                        <h3>Jena Karlis</h3>
+                        <h4>Store Owner</h4>
+                    </div>
+                </div>
+            </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+    </div>
+    </div>
+
+    <div class="container mb-5">
+        <div class="row justify-content-center">
+          <div class="accordion col-8" id="accordionExample">
+            <h2 class="text-center m-5">FAQ</h2>
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button
+                  class="accordion-button"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#collapseOne"
+                  aria-expanded="true"
+                  aria-controls="collapseOne"
+                >
+                  Accordion Item #1
+                </button>
+              </h2>
+              <div
+                id="collapseOne"
+                class="accordion-collapse collapse show"
+                data-bs-parent="#accordionExample"
+              >
+                <div class="accordion-body">
+                  <strong>This is the first item's accordion body.</strong> It is
+                  shown by default, until the collapse plugin adds the appropriate
+                  classes that we use to style each element. These classes control
+                  the overall appearance, as well as the showing and hiding via
+                  CSS transitions. You can modify any of this with custom CSS or
+                  overriding our default variables. It's also worth noting that
+                  just about any HTML can go within the
+                  <code>.accordion-body</code>, though the transition does limit
+                  overflow.
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button
+                  class="accordion-button collapsed"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#collapseTwo"
+                  aria-expanded="false"
+                  aria-controls="collapseTwo"
+                >
+                  Accordion Item #2
+                </button>
+              </h2>
+              <div
+                id="collapseTwo"
+                class="accordion-collapse collapse"
+                data-bs-parent="#accordionExample"
+              >
+                <div class="accordion-body">
+                  <strong>This is the second item's accordion body.</strong> It is
+                  hidden by default, until the collapse plugin adds the
+                  appropriate classes that we use to style each element. These
+                  classes control the overall appearance, as well as the showing
+                  and hiding via CSS transitions. You can modify any of this with
+                  custom CSS or overriding our default variables. It's also worth
+                  noting that just about any HTML can go within the
+                  <code>.accordion-body</code>, though the transition does limit
+                  overflow.
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button
+                  class="accordion-button collapsed"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#collapseThree"
+                  aria-expanded="false"
+                  aria-controls="collapseThree"
+                >
+                  Accordion Item #3
+                </button>
+              </h2>
+              <div
+                id="collapseThree"
+                class="accordion-collapse collapse"
+                data-bs-parent="#accordionExample"
+              >
+                <div class="accordion-body">
+                  <strong>This is the third item's accordion body.</strong> It is
+                  hidden by default, until the collapse plugin adds the
+                  appropriate classes that we use to style each element. These
+                  classes control the overall appearance, as well as the showing
+                  and hiding via CSS transitions. You can modify any of this with
+                  custom CSS or overriding our default variables. It's also worth
+                  noting that just about any HTML can go within the
+                  <code>.accordion-body</code>, though the transition does limit
+                  overflow.
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button
+                  class="accordion-button collapsed"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#collapseFour"
+                  aria-expanded="false"
+                  aria-controls="collapseFour"
+                >
+                  Accordion Item #4
+                </button>
+              </h2>
+              <div
+                id="collapseFour"
+                class="accordion-collapse collapse"
+                data-bs-parent="#accordionExample"
+              >
+                <div class="accordion-body">
+                  <strong>This is the third item's accordion body.</strong> It is
+                  hidden by default, until the collapse plugin adds the
+                  appropriate classes that we use to style each element. These
+                  classes control the overall appearance, as well as the showing
+                  and hiding via CSS transitions. You can modify any of this with
+                  custom CSS or overriding our default variables. It's also worth
+                  noting that just about any HTML can go within the
+                  <code>.accordion-body</code>, though the transition does limit
+                  overflow.
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+       <script src="bootstrap.bundle.js"></script>
+    </body>
+    </html>
+    
+    
+    

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\engmt\\source\\repos\\DotNETMNFCSD04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F23DDE16-8E4B-45A1-BC31-484557CD1C6F}|DotNETMNFCSD04\\DotNETMNFCSD04.csproj|c:\\users\\engmt\\source\\repos\\dotnetmnfcsd04\\dotnetmnfcsd04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F23DDE16-8E4B-45A1-BC31-484557CD1C6F}|DotNETMNFCSD04\\DotNETMNFCSD04.csproj|solutionrelative:dotnetmnfcsd04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F23DDE16-8E4B-45A1-BC31-484557CD1C6F}|DotNETMNFCSD04\\DotNETMNFCSD04.csproj|c:\\users\\engmt\\source\\repos\\dotnetmnfcsd04\\dotnetmnfcsd04\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F23DDE16-8E4B-45A1-BC31-484557CD1C6F}|DotNETMNFCSD04\\DotNETMNFCSD04.csproj|solutionrelative:dotnetmnfcsd04\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F23DDE16-8E4B-45A1-BC31-484557CD1C6F}|DotNETMNFCSD04\\DotNETMNFCSD04.csproj|c:\\users\\engmt\\source\\repos\\dotnetmnfcsd04\\dotnetmnfcsd04\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F23DDE16-8E4B-45A1-BC31-484557CD1C6F}|DotNETMNFCSD04\\DotNETMNFCSD04.csproj|solutionrelative:dotnetmnfcsd04\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F23DDE16-8E4B-45A1-BC31-484557CD1C6F}|DotNETMNFCSD04\\DotNETMNFCSD04.csproj|c:\\users\\engmt\\source\\repos\\dotnetmnfcsd04\\dotnetmnfcsd04\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F23DDE16-8E4B-45A1-BC31-484557CD1C6F}|DotNETMNFCSD04\\DotNETMNFCSD04.csproj|solutionrelative:dotnetmnfcsd04\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F23DDE16-8E4B-45A1-BC31-484557CD1C6F}|DotNETMNFCSD04\\DotNETMNFCSD04.csproj|c:\\users\\engmt\\source\\repos\\dotnetmnfcsd04\\dotnetmnfcsd04\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F23DDE16-8E4B-45A1-BC31-484557CD1C6F}|DotNETMNFCSD04\\DotNETMNFCSD04.csproj|solutionrelative:dotnetmnfcsd04\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F23DDE16-8E4B-45A1-BC31-484557CD1C6F}|DotNETMNFCSD04\\DotNETMNFCSD04.csproj|c:\\users\\engmt\\source\\repos\\dotnetmnfcsd04\\dotnetmnfcsd04\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F23DDE16-8E4B-45A1-BC31-484557CD1C6F}|DotNETMNFCSD04\\DotNETMNFCSD04.csproj|solutionrelative:dotnetmnfcsd04\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\engmt\\source\\repos\\DotNETMNFCSD04\\DotNETMNFCSD04\\Employee.cs",
+              "RelativeDocumentMoniker": "DotNETMNFCSD04\\Employee.cs",
+              "ToolTip": "C:\\Users\\engmt\\source\\repos\\DotNETMNFCSD04\\DotNETMNFCSD04\\Employee.cs",
+              "RelativeToolTip": "DotNETMNFCSD04\\Employee.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:17:30.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\engmt\\source\\repos\\DotNETMNFCSD04\\DotNETMNFCSD04\\Point.cs",
+              "RelativeDocumentMoniker": "DotNETMNFCSD04\\Point.cs",
+              "ToolTip": "C:\\Users\\engmt\\source\\repos\\DotNETMNFCSD04\\DotNETMNFCSD04\\Point.cs",
+              "RelativeToolTip": "DotNETMNFCSD04\\Point.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwB0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:10:51.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Math.cs",
+              "DocumentMoniker": "C:\\Users\\engmt\\source\\repos\\DotNETMNFCSD04\\DotNETMNFCSD04\\Math.cs",
+              "RelativeDocumentMoniker": "DotNETMNFCSD04\\Math.cs",
+              "ToolTip": "C:\\Users\\engmt\\source\\repos\\DotNETMNFCSD04\\DotNETMNFCSD04\\Math.cs",
+              "RelativeToolTip": "DotNETMNFCSD04\\Math.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAywEgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:49:42.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Complex.cs",
+              "DocumentMoniker": "C:\\Users\\engmt\\source\\repos\\DotNETMNFCSD04\\DotNETMNFCSD04\\Complex.cs",
+              "RelativeDocumentMoniker": "DotNETMNFCSD04\\Complex.cs",
+              "ToolTip": "C:\\Users\\engmt\\source\\repos\\DotNETMNFCSD04\\DotNETMNFCSD04\\Complex.cs",
+              "RelativeToolTip": "DotNETMNFCSD04\\Complex.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:29:42.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\engmt\\source\\repos\\DotNETMNFCSD04\\DotNETMNFCSD04\\Utility.cs",
+              "RelativeDocumentMoniker": "DotNETMNFCSD04\\Utility.cs",
+              "ToolTip": "C:\\Users\\engmt\\source\\repos\\DotNETMNFCSD04\\DotNETMNFCSD04\\Utility.cs",
+              "RelativeToolTip": "DotNETMNFCSD04\\Utility.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA8wAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:02:52.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\engmt\\source\\repos\\DotNETMNFCSD04\\DotNETMNFCSD04\\Program.cs",
+              "RelativeDocumentMoniker": "DotNETMNFCSD04\\Program.cs",
+              "ToolTip": "C:\\Users\\engmt\\source\\repos\\DotNETMNFCSD04\\DotNETMNFCSD04\\Program.cs",
+              "RelativeToolTip": "DotNETMNFCSD04\\Program.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAUwN8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:01:28.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

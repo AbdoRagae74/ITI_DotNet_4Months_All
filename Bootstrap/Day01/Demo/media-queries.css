@@ -1,0 +1,41 @@
+
+
+/* 0-900 */
+
+/* 501 - 900 */
+@media (max-width : 900px){
+
+ 
+
+  p{
+    font-size: 30px;
+    color: blue;
+  }
+
+}
+
+/* 0- 500 */
+
+/* 301 - 500 */
+@media (min-width : 500px) and (max-width:1000px){
+
+ 
+
+  html{
+    font-size: 8px;
+  }
+
+}
+
+/* 0 - 300 */
+@media (max-width : 300px){
+
+ 
+
+  p{
+    font-size: 30px;
+    color: yellow;
+  }
+
+}
+

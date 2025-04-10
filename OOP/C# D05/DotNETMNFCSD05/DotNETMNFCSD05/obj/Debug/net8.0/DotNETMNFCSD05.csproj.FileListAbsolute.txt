@@ -1,0 +1,14 @@
+C:\Users\engmt\source\repos\DotNETMNFCSD05\DotNETMNFCSD05\bin\Debug\net8.0\DotNETMNFCSD05.exe
+C:\Users\engmt\source\repos\DotNETMNFCSD05\DotNETMNFCSD05\bin\Debug\net8.0\DotNETMNFCSD05.deps.json
+C:\Users\engmt\source\repos\DotNETMNFCSD05\DotNETMNFCSD05\bin\Debug\net8.0\DotNETMNFCSD05.runtimeconfig.json
+C:\Users\engmt\source\repos\DotNETMNFCSD05\DotNETMNFCSD05\bin\Debug\net8.0\DotNETMNFCSD05.dll
+C:\Users\engmt\source\repos\DotNETMNFCSD05\DotNETMNFCSD05\bin\Debug\net8.0\DotNETMNFCSD05.pdb
+C:\Users\engmt\source\repos\DotNETMNFCSD05\DotNETMNFCSD05\obj\Debug\net8.0\DotNETMNFCSD05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\engmt\source\repos\DotNETMNFCSD05\DotNETMNFCSD05\obj\Debug\net8.0\DotNETMNFCSD05.AssemblyInfoInputs.cache
+C:\Users\engmt\source\repos\DotNETMNFCSD05\DotNETMNFCSD05\obj\Debug\net8.0\DotNETMNFCSD05.AssemblyInfo.cs
+C:\Users\engmt\source\repos\DotNETMNFCSD05\DotNETMNFCSD05\obj\Debug\net8.0\DotNETMNFCSD05.csproj.CoreCompileInputs.cache
+C:\Users\engmt\source\repos\DotNETMNFCSD05\DotNETMNFCSD05\obj\Debug\net8.0\DotNETMNFCSD05.dll
+C:\Users\engmt\source\repos\DotNETMNFCSD05\DotNETMNFCSD05\obj\Debug\net8.0\refint\DotNETMNFCSD05.dll
+C:\Users\engmt\source\repos\DotNETMNFCSD05\DotNETMNFCSD05\obj\Debug\net8.0\DotNETMNFCSD05.pdb
+C:\Users\engmt\source\repos\DotNETMNFCSD05\DotNETMNFCSD05\obj\Debug\net8.0\DotNETMNFCSD05.genruntimeconfig.cache
+C:\Users\engmt\source\repos\DotNETMNFCSD05\DotNETMNFCSD05\obj\Debug\net8.0\ref\DotNETMNFCSD05.dll

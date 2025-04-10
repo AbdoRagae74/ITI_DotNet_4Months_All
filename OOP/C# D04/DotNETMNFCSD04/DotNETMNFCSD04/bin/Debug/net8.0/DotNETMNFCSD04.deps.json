@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DotNETMNFCSD04/1.0.0": {
+        "runtime": {
+          "DotNETMNFCSD04.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotNETMNFCSD04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
