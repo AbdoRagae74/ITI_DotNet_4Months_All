@@ -8,66 +8,74 @@
     <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-    <div id="booksInput"  >
-
-        <div class="col-md-4 m-5">
+    <div  id="booksInput" class="card shadow-md mx-auto mt-3 card2 "  >
+      <div class="row justify-content-center">
+        <div class="card-body">
+        <div class="d-flex flex-column align-items-center book-input " >
+          <div class="col-md-6 my-3 text-center">
             <label for="validationServer01" class="form-label">Number of books</label>
             <input type="number" class="form-control " id="validationBooks"  required>
-        </div>
-        
-        <div class="col-12 m-5">
-            <button disabled id ="booksButton"class="btn btn-primary" type="submit">Submit form</button>
+          </div>
+          
+          <div class="col-auto mb-3 ">
+            <button disabled id ="booksButton"class="btn btn-primary" type="submit">Submit</button>
+          </div>
         </div>
     </div>
-    <div hidden id = "books-data" class="m-3 books-data" >
-
-
-            <div class="col-md-8">
+    </div>
+    </div>
+    <div hidden id = "books-data" class="card shadow-md mx-auto mt-3 card2  books-data" >
+      <div class="row justify-content-center">
+          <div class="card-body">
+            <div class="d-flex flex-column align-items-center">
+            <div class="col-md-6 my-3 text-center">
                 <label for="validationDefault01" class="form-label" >Book name</label>
                 <input type="text" class="form-control is-invalid" value="abcd" id="book-name"  required>
             </div>
-            <div class="col-md-8">
+            <div class="col-md-6 my-3 text-center">
               <label for="validationDefault02" class="form-label pt-2">Price</label>
               <input type="text" class="form-control is-invalid" value="2223"id="book-price"  required>
-            </div>
-           
-            <div class="col-md-8">
+            </div>           
+            <div class="col-md-6 my-3 text-center">
               <label for="validationDefault02" class="form-label pt-2">Author name</label>
               <input type="text" class="form-control is-invalid" value="abcd" id="author-name"  required>
             </div>
 
-            <div class="col-md-8">
+            <div class="col-md-6 my-3 text-center">
               <label for="validationDefault02" class="form-label pt-2">Author email</label>
               <input type="text" class="form-control is-invalid" value="abcd" id="author-email"  required>
-            </div>
-           
-            
-            <div class="col-12 mt-3">
+            </div>              
+            <div class="col-2 mt-3">
               <button class="btn btn-primary" id="submit-book" type="submit">Submit book</button><br>
               <label id="label2" for="WrongData" class="form-label label2 pt-2">Please Enter valid data</label>
-
             </div>
-
-
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div id="books-table-data" hidden class="mt-5" >
-      <table class="table">
-        <thead >
-          <tr>
-            <th scope="col">#</th>
-            <th scope="col" >Book name</th>
-            <th scope="col">Price</th>
-            <th scope="col">author name</th>
-            <th scope="col">author email</th>
-            <th scope="col" colspan="2"  style="text-align: center;" >Buttons</th>
-          </tr>
-        </thead>
-        <tbody id="table-body">
-         
-          
-        </tbody>
-      </table>
+    <div id="books-table-data" hidden class="container-fluid py-4">
+      <div class="row justify-content-center">
+        <div class="col-12 col-lg-10 col-xl-8"> <!-- Responsive width control -->
+          <div class="table-responsive t1"> <!-- Makes table scrollable on small screens -->
+            <table class="table  table-hover shadow-sm"> <!-- Added hover effect and shadow -->
+              <thead class="table-light"> <!-- Light header -->
+                <tr>
+                  <th scope="col" style="width: 5%">#</th>
+                  <th scope="col" style="width: 20%">Book name</th>
+                  <th scope="col" style="width: 10%">Price</th>
+                  <th scope="col" style="width: 20%">Author name</th>
+                  <th scope="col" style="width: 25%">Author email</th>
+                  <th scope="col" colspan="2" style="width: 20%; text-align: center">Actions</th>
+                </tr>
+              </thead>
+              <tbody id="table-body">
+                <!-- Dynamic content will go here -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
     </div>
 
     <script src="main.js"></script>

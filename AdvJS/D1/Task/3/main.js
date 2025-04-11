@@ -37,7 +37,7 @@ function resetInputs(input){
 }
 
 function showBooks(){
-    console.log(booksTable);
+    // console.log(booksTable);
     booksTable.innerHTML="";
 
     libraryBooks.forEach((book, index) => {
@@ -155,10 +155,10 @@ submitBook.addEventListener("click",function(){
   if(checkBookData()){
       var author = new AuthorData(authorName.value,authorEmail.value)
       var book = new Book(bookName.value,bookPrice.value,author);
-      console.log(book);
-      console.log(author);
+    //   console.log(book);
+    //   console.log(author);
       libraryBooks.push(book);
-      console.log(libraryBooks);
+    //   console.log(libraryBooks);
       resetInputs(bookName)   
       resetInputs(bookPrice);  
       resetInputs(authorName); 
@@ -209,14 +209,7 @@ document.addEventListener('click', function(e) {
     if (e.target.classList.contains('save-btn')) {
         const row = e.target.closest('tr');
         const bookIndex = e.target.getAttribute('data-id');
-
-        // ${book.name}</td>
-        // >${book.price}</td>
-        // >${book.AuthorData.authorName}</td
-        // >${book.AuthorData.authorEmail}</td
-
-
-        libraryBooks[bookIndex]={
+             libraryBooks[bookIndex]={
             name: row.querySelector('[data-field="name"]').textContent,
             price: parseFloat(row.querySelector('[data-field="price"]').textContent),
             AuthorData: {
