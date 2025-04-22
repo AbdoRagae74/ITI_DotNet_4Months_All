@@ -1,0 +1,14 @@
+C:\Users\AbdoRagae\source\repos\Day04Advc#_EventLab\Day04Advc#_EventLab\obj\Debug\net8.0\Day04Advc#_EventLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbdoRagae\source\repos\Day04Advc#_EventLab\Day04Advc#_EventLab\obj\Debug\net8.0\Day04Advc#_EventLab.AssemblyInfoInputs.cache
+C:\Users\AbdoRagae\source\repos\Day04Advc#_EventLab\Day04Advc#_EventLab\obj\Debug\net8.0\Day04Advc#_EventLab.AssemblyInfo.cs
+C:\Users\AbdoRagae\source\repos\Day04Advc#_EventLab\Day04Advc#_EventLab\obj\Debug\net8.0\Day04Advc#_EventLab.csproj.CoreCompileInputs.cache
+C:\Users\AbdoRagae\source\repos\Day04Advc#_EventLab\Day04Advc#_EventLab\bin\Debug\net8.0\Day04Advc#_EventLab.exe
+C:\Users\AbdoRagae\source\repos\Day04Advc#_EventLab\Day04Advc#_EventLab\bin\Debug\net8.0\Day04Advc#_EventLab.deps.json
+C:\Users\AbdoRagae\source\repos\Day04Advc#_EventLab\Day04Advc#_EventLab\bin\Debug\net8.0\Day04Advc#_EventLab.runtimeconfig.json
+C:\Users\AbdoRagae\source\repos\Day04Advc#_EventLab\Day04Advc#_EventLab\bin\Debug\net8.0\Day04Advc#_EventLab.dll
+C:\Users\AbdoRagae\source\repos\Day04Advc#_EventLab\Day04Advc#_EventLab\bin\Debug\net8.0\Day04Advc#_EventLab.pdb
+C:\Users\AbdoRagae\source\repos\Day04Advc#_EventLab\Day04Advc#_EventLab\obj\Debug\net8.0\Day04Advc#_EventLab.dll
+C:\Users\AbdoRagae\source\repos\Day04Advc#_EventLab\Day04Advc#_EventLab\obj\Debug\net8.0\refint\Day04Advc#_EventLab.dll
+C:\Users\AbdoRagae\source\repos\Day04Advc#_EventLab\Day04Advc#_EventLab\obj\Debug\net8.0\Day04Advc#_EventLab.pdb
+C:\Users\AbdoRagae\source\repos\Day04Advc#_EventLab\Day04Advc#_EventLab\obj\Debug\net8.0\Day04Advc#_EventLab.genruntimeconfig.cache
+C:\Users\AbdoRagae\source\repos\Day04Advc#_EventLab\Day04Advc#_EventLab\obj\Debug\net8.0\ref\Day04Advc#_EventLab.dll
