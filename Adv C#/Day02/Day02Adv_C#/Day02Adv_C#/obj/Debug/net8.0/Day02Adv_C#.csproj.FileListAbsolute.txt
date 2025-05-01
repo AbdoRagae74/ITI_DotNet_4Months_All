@@ -1,0 +1,14 @@
+C:\Users\AbdoRagae\source\repos\Day02Adv_C#\Day02Adv_C#\bin\Debug\net8.0\Day02Adv_C#.exe
+C:\Users\AbdoRagae\source\repos\Day02Adv_C#\Day02Adv_C#\bin\Debug\net8.0\Day02Adv_C#.deps.json
+C:\Users\AbdoRagae\source\repos\Day02Adv_C#\Day02Adv_C#\bin\Debug\net8.0\Day02Adv_C#.runtimeconfig.json
+C:\Users\AbdoRagae\source\repos\Day02Adv_C#\Day02Adv_C#\bin\Debug\net8.0\Day02Adv_C#.dll
+C:\Users\AbdoRagae\source\repos\Day02Adv_C#\Day02Adv_C#\bin\Debug\net8.0\Day02Adv_C#.pdb
+C:\Users\AbdoRagae\source\repos\Day02Adv_C#\Day02Adv_C#\obj\Debug\net8.0\Day02Adv_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbdoRagae\source\repos\Day02Adv_C#\Day02Adv_C#\obj\Debug\net8.0\Day02Adv_C#.AssemblyInfoInputs.cache
+C:\Users\AbdoRagae\source\repos\Day02Adv_C#\Day02Adv_C#\obj\Debug\net8.0\Day02Adv_C#.AssemblyInfo.cs
+C:\Users\AbdoRagae\source\repos\Day02Adv_C#\Day02Adv_C#\obj\Debug\net8.0\Day02Adv_C#.csproj.CoreCompileInputs.cache
+C:\Users\AbdoRagae\source\repos\Day02Adv_C#\Day02Adv_C#\obj\Debug\net8.0\Day02Adv_C#.dll
+C:\Users\AbdoRagae\source\repos\Day02Adv_C#\Day02Adv_C#\obj\Debug\net8.0\refint\Day02Adv_C#.dll
+C:\Users\AbdoRagae\source\repos\Day02Adv_C#\Day02Adv_C#\obj\Debug\net8.0\Day02Adv_C#.pdb
+C:\Users\AbdoRagae\source\repos\Day02Adv_C#\Day02Adv_C#\obj\Debug\net8.0\Day02Adv_C#.genruntimeconfig.cache
+C:\Users\AbdoRagae\source\repos\Day02Adv_C#\Day02Adv_C#\obj\Debug\net8.0\ref\Day02Adv_C#.dll
