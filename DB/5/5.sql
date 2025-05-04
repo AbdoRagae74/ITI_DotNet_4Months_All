@@ -94,3 +94,5 @@ where RN = 1
 
 
 
+select @@error 
+

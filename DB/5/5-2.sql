@@ -37,7 +37,7 @@ select *
 from Production.ProductDescription p
 where p.Description like'%[_]%'
 
---7.xx	Calculate sum of TotalDue for each OrderDate in Sales.SalesOrderHeader table 
+--7.	Calculate sum of TotalDue for each OrderDate in Sales.SalesOrderHeader table 
 --for the period between  '7/1/2001' and '7/31/2014'
 
 select orderdate , sum(TotalDue) 
