@@ -1,0 +1,40 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace LINQD01
+{
+    public class Repo
+    {
+        public static List<Student> GetStudents()
+        {
+            return new List<Student>()
+    {
+        new Student { Id = 1, FirstName = "Ahmed", LastName = "Osama", Age = 26 , Salary = 1234, TrackId = 1},
+        new Student { Id = 2, FirstName = "Mohamed", LastName = "Hatem", Age = 37 , Salary = 2234, TrackId = 2},
+        new Student { Id = 3, FirstName = "Sara", LastName = "Hamada", Age = 46 , Salary = 4234, TrackId = 3},
+        new Student { Id = 4, FirstName = "Omar", LastName = "Ramy", Age = 25 , Salary = 5234, TrackId = 4},
+        new Student { Id = 5, FirstName = "Ali", LastName = "Osama", Age = 25 , Salary = 6234, TrackId = 1},
+        new Student { Id = 6, FirstName = "Mai", LastName = "Ahmed", Age = 36 , Salary = 7234, TrackId = 2},
+        new Student { Id = 7, FirstName = "Ramy", LastName = "Omar", Age = 49 , Salary = 8234, TrackId = 3},
+        new Student { Id = 8, FirstName = "Hamada", LastName = "Osama", Age = 18 , Salary = 9234, TrackId = 4},
+        new Student { Id = 9, FirstName = "Hatem", LastName = "Mohamed", Age = 26 , Salary = 10234, TrackId = 1},
+        new Student { Id = 10, FirstName = "Osama", LastName = "Ahmed", Age = 25 , Salary = 17234, TrackId = 2},
+    };
+        }
+
+        public static List<Track> GetTracks()
+        {
+            return new List<Track>()
+    {
+        new Track {  TrackId = 1 , TrackName = "SD" },
+        new Track {  TrackId = 2 , TrackName = "UI" },
+        new Track {  TrackId = 3 , TrackName = "Mob" },
+        new Track {  TrackId = 4 , TrackName = "Network" },
+    };
+        }
+
+    }
+}

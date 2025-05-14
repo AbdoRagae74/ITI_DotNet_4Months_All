@@ -1,0 +1,14 @@
+C:\Users\AbdoRagae\source\repos\LINQD02\LINQD02\bin\Debug\net8.0\LINQD02.exe
+C:\Users\AbdoRagae\source\repos\LINQD02\LINQD02\bin\Debug\net8.0\LINQD02.deps.json
+C:\Users\AbdoRagae\source\repos\LINQD02\LINQD02\bin\Debug\net8.0\LINQD02.runtimeconfig.json
+C:\Users\AbdoRagae\source\repos\LINQD02\LINQD02\bin\Debug\net8.0\LINQD02.dll
+C:\Users\AbdoRagae\source\repos\LINQD02\LINQD02\bin\Debug\net8.0\LINQD02.pdb
+C:\Users\AbdoRagae\source\repos\LINQD02\LINQD02\obj\Debug\net8.0\LINQD02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbdoRagae\source\repos\LINQD02\LINQD02\obj\Debug\net8.0\LINQD02.AssemblyInfoInputs.cache
+C:\Users\AbdoRagae\source\repos\LINQD02\LINQD02\obj\Debug\net8.0\LINQD02.AssemblyInfo.cs
+C:\Users\AbdoRagae\source\repos\LINQD02\LINQD02\obj\Debug\net8.0\LINQD02.csproj.CoreCompileInputs.cache
+C:\Users\AbdoRagae\source\repos\LINQD02\LINQD02\obj\Debug\net8.0\LINQD02.dll
+C:\Users\AbdoRagae\source\repos\LINQD02\LINQD02\obj\Debug\net8.0\refint\LINQD02.dll
+C:\Users\AbdoRagae\source\repos\LINQD02\LINQD02\obj\Debug\net8.0\LINQD02.pdb
+C:\Users\AbdoRagae\source\repos\LINQD02\LINQD02\obj\Debug\net8.0\LINQD02.genruntimeconfig.cache
+C:\Users\AbdoRagae\source\repos\LINQD02\LINQD02\obj\Debug\net8.0\ref\LINQD02.dll

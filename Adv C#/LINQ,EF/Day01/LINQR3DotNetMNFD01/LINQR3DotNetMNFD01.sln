@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQR3DotNetMNFD01", "LINQR3DotNetMNFD01\LINQR3DotNetMNFD01.csproj", "{87DD8AFA-9D64-44AA-90A0-84B2814CEA1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeforeLINQ", "BeforeLINQ\BeforeLINQ.csproj", "{2954413C-A771-4F0D-BBC7-DB9A4AE294CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87DD8AFA-9D64-44AA-90A0-84B2814CEA1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87DD8AFA-9D64-44AA-90A0-84B2814CEA1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87DD8AFA-9D64-44AA-90A0-84B2814CEA1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87DD8AFA-9D64-44AA-90A0-84B2814CEA1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2954413C-A771-4F0D-BBC7-DB9A4AE294CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2954413C-A771-4F0D-BBC7-DB9A4AE294CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2954413C-A771-4F0D-BBC7-DB9A4AE294CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2954413C-A771-4F0D-BBC7-DB9A4AE294CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04E2BEA7-2948-4EBF-B922-769C78994C4B}
+	EndGlobalSection
+EndGlobal
