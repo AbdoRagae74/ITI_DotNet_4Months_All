@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Day03Adv_C#/1.0.0": {
+        "runtime": {
+          "Day03Adv_C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day03Adv_C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
