@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI\\Dot Net R3 MNF 2024-2025\\LINQ\\Day01\\LINQR3DotNetMNFD01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87DD8AFA-9D64-44AA-90A0-84B2814CEA1A}|LINQR3DotNetMNFD01\\LINQR3DotNetMNFD01.csproj|d:\\iti\\dot net r3 mnf 2024-2025\\linq\\day01\\linqr3dotnetmnfd01\\linqr3dotnetmnfd01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DD8AFA-9D64-44AA-90A0-84B2814CEA1A}|LINQR3DotNetMNFD01\\LINQR3DotNetMNFD01.csproj|solutionrelative:linqr3dotnetmnfd01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DD8AFA-9D64-44AA-90A0-84B2814CEA1A}|LINQR3DotNetMNFD01\\LINQR3DotNetMNFD01.csproj|d:\\iti\\dot net r3 mnf 2024-2025\\linq\\day01\\linqr3dotnetmnfd01\\linqr3dotnetmnfd01\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DD8AFA-9D64-44AA-90A0-84B2814CEA1A}|LINQR3DotNetMNFD01\\LINQR3DotNetMNFD01.csproj|solutionrelative:linqr3dotnetmnfd01\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DD8AFA-9D64-44AA-90A0-84B2814CEA1A}|LINQR3DotNetMNFD01\\LINQR3DotNetMNFD01.csproj|d:\\iti\\dot net r3 mnf 2024-2025\\linq\\day01\\linqr3dotnetmnfd01\\linqr3dotnetmnfd01\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DD8AFA-9D64-44AA-90A0-84B2814CEA1A}|LINQR3DotNetMNFD01\\LINQR3DotNetMNFD01.csproj|solutionrelative:linqr3dotnetmnfd01\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DD8AFA-9D64-44AA-90A0-84B2814CEA1A}|LINQR3DotNetMNFD01\\LINQR3DotNetMNFD01.csproj|d:\\iti\\dot net r3 mnf 2024-2025\\linq\\day01\\linqr3dotnetmnfd01\\linqr3dotnetmnfd01\\extentionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DD8AFA-9D64-44AA-90A0-84B2814CEA1A}|LINQR3DotNetMNFD01\\LINQR3DotNetMNFD01.csproj|solutionrelative:linqr3dotnetmnfd01\\extentionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DD8AFA-9D64-44AA-90A0-84B2814CEA1A}|LINQR3DotNetMNFD01\\LINQR3DotNetMNFD01.csproj|d:\\iti\\dot net r3 mnf 2024-2025\\linq\\day01\\linqr3dotnetmnfd01\\linqr3dotnetmnfd01\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DD8AFA-9D64-44AA-90A0-84B2814CEA1A}|LINQR3DotNetMNFD01\\LINQR3DotNetMNFD01.csproj|solutionrelative:linqr3dotnetmnfd01\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\ITI\\Dot Net R3 MNF 2024-2025\\LINQ\\Day01\\LINQR3DotNetMNFD01\\LINQR3DotNetMNFD01\\Student.cs",
+              "RelativeDocumentMoniker": "LINQR3DotNetMNFD01\\Student.cs",
+              "ToolTip": "D:\\ITI\\Dot Net R3 MNF 2024-2025\\LINQ\\Day01\\LINQR3DotNetMNFD01\\LINQR3DotNetMNFD01\\Student.cs",
+              "RelativeToolTip": "LINQR3DotNetMNFD01\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:35:19.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI\\Dot Net R3 MNF 2024-2025\\LINQ\\Day01\\LINQR3DotNetMNFD01\\LINQR3DotNetMNFD01\\Program.cs",
+              "RelativeDocumentMoniker": "LINQR3DotNetMNFD01\\Program.cs",
+              "ToolTip": "D:\\ITI\\Dot Net R3 MNF 2024-2025\\LINQ\\Day01\\LINQR3DotNetMNFD01\\LINQR3DotNetMNFD01\\Program.cs",
+              "RelativeToolTip": "LINQR3DotNetMNFD01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:35:14.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "D:\\ITI\\Dot Net R3 MNF 2024-2025\\LINQ\\Day01\\LINQR3DotNetMNFD01\\LINQR3DotNetMNFD01\\Helper.cs",
+              "RelativeDocumentMoniker": "LINQR3DotNetMNFD01\\Helper.cs",
+              "ToolTip": "D:\\ITI\\Dot Net R3 MNF 2024-2025\\LINQ\\Day01\\LINQR3DotNetMNFD01\\LINQR3DotNetMNFD01\\Helper.cs",
+              "RelativeToolTip": "LINQR3DotNetMNFD01\\Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:35:07.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExtentionMethod.cs",
+              "DocumentMoniker": "D:\\ITI\\Dot Net R3 MNF 2024-2025\\LINQ\\Day01\\LINQR3DotNetMNFD01\\LINQR3DotNetMNFD01\\ExtentionMethod.cs",
+              "RelativeDocumentMoniker": "LINQR3DotNetMNFD01\\ExtentionMethod.cs",
+              "ToolTip": "D:\\ITI\\Dot Net R3 MNF 2024-2025\\LINQ\\Day01\\LINQR3DotNetMNFD01\\LINQR3DotNetMNFD01\\ExtentionMethod.cs",
+              "RelativeToolTip": "LINQR3DotNetMNFD01\\ExtentionMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:34:53.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\ITI\\Dot Net R3 MNF 2024-2025\\LINQ\\Day01\\LINQR3DotNetMNFD01\\LINQR3DotNetMNFD01\\Department.cs",
+              "RelativeDocumentMoniker": "LINQR3DotNetMNFD01\\Department.cs",
+              "ToolTip": "D:\\ITI\\Dot Net R3 MNF 2024-2025\\LINQ\\Day01\\LINQR3DotNetMNFD01\\LINQR3DotNetMNFD01\\Department.cs",
+              "RelativeToolTip": "LINQR3DotNetMNFD01\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:34:52.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

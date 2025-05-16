@@ -1,0 +1,14 @@
+D:\ITI\Dot Net R3 MNF 2024-2025\LINQ\Day01\LINQR3DotNetMNFD01\BeforeLINQ\bin\Debug\net9.0\BeforeLINQ.exe
+D:\ITI\Dot Net R3 MNF 2024-2025\LINQ\Day01\LINQR3DotNetMNFD01\BeforeLINQ\bin\Debug\net9.0\BeforeLINQ.deps.json
+D:\ITI\Dot Net R3 MNF 2024-2025\LINQ\Day01\LINQR3DotNetMNFD01\BeforeLINQ\bin\Debug\net9.0\BeforeLINQ.runtimeconfig.json
+D:\ITI\Dot Net R3 MNF 2024-2025\LINQ\Day01\LINQR3DotNetMNFD01\BeforeLINQ\bin\Debug\net9.0\BeforeLINQ.dll
+D:\ITI\Dot Net R3 MNF 2024-2025\LINQ\Day01\LINQR3DotNetMNFD01\BeforeLINQ\bin\Debug\net9.0\BeforeLINQ.pdb
+D:\ITI\Dot Net R3 MNF 2024-2025\LINQ\Day01\LINQR3DotNetMNFD01\BeforeLINQ\obj\Debug\net9.0\BeforeLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Dot Net R3 MNF 2024-2025\LINQ\Day01\LINQR3DotNetMNFD01\BeforeLINQ\obj\Debug\net9.0\BeforeLINQ.AssemblyInfoInputs.cache
+D:\ITI\Dot Net R3 MNF 2024-2025\LINQ\Day01\LINQR3DotNetMNFD01\BeforeLINQ\obj\Debug\net9.0\BeforeLINQ.AssemblyInfo.cs
+D:\ITI\Dot Net R3 MNF 2024-2025\LINQ\Day01\LINQR3DotNetMNFD01\BeforeLINQ\obj\Debug\net9.0\BeforeLINQ.csproj.CoreCompileInputs.cache
+D:\ITI\Dot Net R3 MNF 2024-2025\LINQ\Day01\LINQR3DotNetMNFD01\BeforeLINQ\obj\Debug\net9.0\BeforeLINQ.dll
+D:\ITI\Dot Net R3 MNF 2024-2025\LINQ\Day01\LINQR3DotNetMNFD01\BeforeLINQ\obj\Debug\net9.0\refint\BeforeLINQ.dll
+D:\ITI\Dot Net R3 MNF 2024-2025\LINQ\Day01\LINQR3DotNetMNFD01\BeforeLINQ\obj\Debug\net9.0\BeforeLINQ.pdb
+D:\ITI\Dot Net R3 MNF 2024-2025\LINQ\Day01\LINQR3DotNetMNFD01\BeforeLINQ\obj\Debug\net9.0\BeforeLINQ.genruntimeconfig.cache
+D:\ITI\Dot Net R3 MNF 2024-2025\LINQ\Day01\LINQR3DotNetMNFD01\BeforeLINQ\obj\Debug\net9.0\ref\BeforeLINQ.dll
