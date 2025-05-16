@@ -1,0 +1,100 @@
+@font-face {
+    font-family: 'myFont';
+    src: url('BigShouldersInline_24pt-Bold.ttf');
+}
+a{
+    text-decoration: none;
+    color:inherit;
+}
+p.my-class
+{
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-family: 'myFont';
+    font-size: 16pt;
+    font-size: 30px;
+
+    /* relative units */
+    /* em,rem,vw,vh,% */
+    /* 1em == 100% of element */
+   
+    font-size:2em;
+     /* 1rem == 100% root font  */
+    font-size: 3rem;
+
+    /* 1vw == 1% viewport width */
+    font-size: 10vw;
+
+    /* 1vh == 1% viewport height */
+    font-size: 10vh;
+    font-weight: 900;
+    font-style: oblique;
+
+    font:italic 400 8vw tahoma;
+    color:red;
+    color:rgb(5, 33, 158);
+    color:#136bc3;
+    
+}
+#container{
+    border:5px solid red;
+    margin:10px;
+    /* margin: 20px 40px;
+    margin: 10px 20px 30px 40px; */
+    padding: 30px;
+
+    width:800px;
+    /* total width=400 +30+30+5+5 */
+    height: 200px;
+    /* total height=200+30+30+5+5 */
+    box-sizing: border-box;
+    text-align: center;
+    background-color: yellow;
+    background-image: url('images/img3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: 0% 0%; */
+    background-attachment: fixed;
+    border-radius: 10px;
+
+}   
+
+#main{
+    border: 2px solid green;
+    background-color:aqua ;
+    height: 500px;
+    position: relative;
+}
+#main div{
+    height: 100px;
+}
+.div1{
+    background-color: burlywood;
+    border: 1px solid brown;
+    /* position: fixed;
+    top:0px;
+    left: 0px;
+    width: 100%; */
+    position: relative;
+    z-index: 100;
+   
+}
+.div2{
+    background-color: chartreuse;
+    border: 1px solid blue;
+    /* position: relative;
+    top:20px;
+    left:50px; */
+
+    /* position: absolute; */
+    top:30px;
+    left:50px;
+}
+
+#my-span{
+    background-color: #136bc3;
+    display: inline-block;
+    width: 200px;
+    font-size: 20px;
+    text-decoration: underline overline;
+    color:white;
+}

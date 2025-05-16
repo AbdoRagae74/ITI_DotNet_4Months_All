@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+    <div>
+        <h1>Register Here !</h1>
+        <p>Welcome to <b>our </b>website</p>
+    </div>
+    <form action="thanks.html" method="get">
+        <!-- <span>USername : </span> -->
+        <label for="user">User Name :</label>
+        <input type="text" id="user" name="username" />
+        <br />
+
+        <label>Password : </label>
+        <input type="password" name="pwd" />
+        <br />
+        <label for="usermail">
+            Email :
+        </label>
+        <input type="email" id="usermail" name="email" />
+        <br />
+        <label>Age : </label>
+        <input type="number" min="16" max="60"/>
+        <br />
+        <label>Gender : </label>
+        <input type="radio" name="gender" value="female" />        <span>Female</span>
+        <input type="radio" name="gender" value="male"/><span>Male</span>
+        <br />
+
+        <label>Courses : </label>
+        <input type="checkbox" name="opt1" value="html" /><span>HTML</span>
+        <input type="checkbox" /><span>CSS</span>
+        <input type="checkbox" /><span>JS</span>
+
+        <br />
+        <label>Country :</label>
+        <select>
+            <option>EGY</option>
+            <option>KSA</option>
+            <option>USA</option>
+            <option>UK</option>
+        </select>
+        <br />
+        <label>Address :</label>
+        <textarea></textarea>
+
+        <br />
+        <input type="submit" value="Register" />
+    </form>
+</body>
+</html>

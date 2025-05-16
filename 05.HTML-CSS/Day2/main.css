@@ -1,0 +1,60 @@
+/* tagname */
+/* p{
+    background-color: aqua;
+}
+.my-class
+{
+    color:blue;
+}
+#internal-span
+{
+    color:brown;
+}
+#my-p
+{
+    color:yellow;
+} */
+ 
+li,p,span{
+
+}
+*{
+
+}
+
+div span{
+    /* color:red; */
+}
+
+div > span{
+    /* color:orange; */
+}
+span + p{
+    color:red !important;
+}
+span ~ p{
+    color:green;
+}
+#container .my-class span{
+
+}
+p.myclass{
+    /* code apply on P */
+}
+p .myclass{
+    /* code apply on children of P */
+}
+#container p.my-class span{
+    color:green;
+}
+#my-span
+{
+    color:brown;
+}
+h1:hover{
+    background-color:green;
+}
+[class]{
+    font-size:30px;
+   
+}

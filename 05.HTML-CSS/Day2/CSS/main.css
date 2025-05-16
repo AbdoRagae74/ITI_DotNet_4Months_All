@@ -1,0 +1,362 @@
+body {
+    margin: 0;
+    font-family: tahoma;
+  }
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  .second-div {
+    width: 100%;
+    height: 80vh;
+    background-image: url("/images/hero.jpg") no-repeat center center/cover;
+    position: relative;
+  }
+  
+
+  .overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); 
+    top: 0;
+    left: 0;
+    z-index: 1; 
+  }
+  
+
+  .content {
+    position: absolute;
+    top: 50%; 
+    left: 10%; 
+    transform: translateY(-50%); 
+    width: 500px; 
+    color: white;
+    z-index: 2; 
+  }
+  
+  .content h1 {
+    font-size: 60px;
+    font-weight: bold;
+  }
+  
+  .content h2 {
+    font-size: 30px;
+    margin-bottom: 15px;
+  }
+  
+  .content p {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+
+  .buttons {
+    margin-top: 10px;
+  }
+  
+  .btn {
+    text-decoration: none;
+    padding: 12px 25px;
+    border-radius: 30px;
+    font-size: 15px;
+    font-weight: bold;
+    display: inline-block;
+  }
+  
+  .btn.primary {
+    background: #ff4b2b;
+    color: white;
+  }
+  
+  .btn.secondary {
+    border: 2px solid #ff4b2b;
+    color: white;
+  }
+  
+  .btn.secondary:hover {
+    background: #ff4b2b;
+    color: black;
+  }
+  #menu-holder {
+    width: 90%;
+    margin: 0px auto;
+    padding-top: 20px;
+  }
+  .menu ul li {
+    display: inline-block;
+    margin: 0px 10px;
+    padding-bottom: 30px;
+    border-bottom: 3px solid white;
+  }
+  .menu {
+    float: right;
+  }
+  
+  .logo {
+    float: left;
+  }
+  
+  .clear-float {
+    clear: both;
+  }
+  
+  .menu ul li:hover {
+    color: orangered;
+
+    border-bottom: 3px solid orangered;
+  }
+  
+  .overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); 
+    top: 0;
+    left: 0;
+  }
+  
+  .cards {
+    margin-top: 30px;
+    text-align: center;
+    margin-bottom: 90px;
+  }
+  .card {
+    padding: 30px;
+    display: inline-block;
+    width: 250px;
+    text-align: center;
+    margin: 10px;
+    border-radius: 30px;
+    background-color: rgba(128, 128, 128, 0.1);
+  }
+  
+  .card1 {
+    height: 220px;
+    padding: 30px;
+    margin-left: 10px;
+    display: inline-block;
+    width: 250px;
+    text-align: center;
+    border-radius: 35px;
+    background-color: #ff4400ec;
+  }
+  .dance-img {
+    background-image: url("/images/donation-gray.png");
+  }
+  .charity-img {
+    background-image: url("/images/charity-gray.png");
+  }
+  .icon {
+    width: 50px;
+    height: 50px;
+    margin: 0 auto 30px;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  
+  .card:hover .dance-img {
+    background-image: url(/images/donation-white.png);
+  }
+  .card:hover .charity-img {
+    background-image: url(/images/charity-white.png);
+  }
+  
+  .card:hover {
+    background-color: #ff4400ec;
+    color: white;
+  }
+  .f4th-div {
+    width: 100%;
+    height: 80vh;
+    position: relative;
+    background: url("/images/welcome-bg.jpg") no-repeat center center/cover;
+  }
+  .container {
+    float: left;
+  }
+  
+  .header {
+    position: absolute;
+    top: 20%; 
+    bottom: 402px;
+    left: 5%; 
+    width: 500px; 
+    color: white;
+    z-index: 2; 
+  }
+  
+  .header::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 60px;
+    height: 4px;
+    background-color: #ff4500;
+  }
+  .text-content .p2 {
+    position: absolute;
+    line-height: 24px;
+    top: 30%; 
+    left: 5%; 
+    width: 480px;
+    color: white;
+    z-index: 2; 
+  }
+  .img2 {
+    position: absolute;
+    margin-left: 30px;
+    top: 15%;
+    right: 9%;
+    float: right;
+    z-index: 2;
+  }
+  .overlay2 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    top: 0;
+    left: 0;
+    z-index: 1;
+  }
+  .btn.primary2 {
+    top: 75%;
+    left: 5%;
+    position: absolute;
+    background: #ff4b2b;
+    color: white;
+    z-index: 2;
+  }
+  .events {
+    position: relative;
+    left: 15%;
+    width: 100%;
+    background-color: #fff;
+  }
+  
+  .upcoming-events {
+    float: left;
+    width: 50%;
+    padding-right: 40px;
+    box-sizing: border-box;
+  }
+  
+  .featured-cause {
+    float: right;
+    width: 50%;
+    padding-left: 40px;
+    box-sizing: border-box;
+  }
+  .event-card {
+    margin-bottom: 30px;
+    background: #f8f9fa;
+    border-radius: 8px;
+  }
+  
+  .event-image {
+    float: left;
+    width: 120px;
+    height: 120px;
+  }
+  
+  .event-details {
+    bottom: 30px;
+    margin-left: 140px;
+  }
+  .event-description {
+    margin: 0 0 15px 0;
+    color: #666;
+  }
+  .event-p {
+    color: #666;
+    font-size: 14px;
+    margin: 0 0 10px 0;
+  }
+  
+  .read-more {
+    color: #ff4500;
+    text-decoration: none;
+    font-weight: 600;
+  }
+  
+  .featured-card {
+    background: #4c52582a;
+  }
+  
+  .featured-image {
+    width: 120px;
+    height: 150px;
+    float: left;
+  }
+  
+  .featured-details {
+    padding: 20px;
+    margin-left: 120px;
+  }
+  
+  .featured-details h2 {
+    margin: 0 0 5px 0;
+    font-size: 24px;
+  }
+  .title {
+    font-size: 38px;
+    font-weight: 700;
+    position: relative;
+    margin: 10 0 40px 0;
+    padding-bottom: 16px;
+  }
+  
+  .title::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 120px;
+    height: 4px;
+    background-color: #ff4500;
+  }
+  .donate-button {
+    display: inline-block;
+    background: #ff4500;
+    color: white;
+    padding: 12px 30px;
+    border-radius: 25px;
+    text-decoration: none;
+    font-weight: 600;
+    margin: 20px 0;
+  }
+  
+  .progress-bar {
+    background: #e9ecef;
+    height: 10px;
+    border-radius: 5px;
+    margin: 20px 0 10px;
+  }
+  
+  .progress {
+    background: #ff4500;
+    height: 100%;
+    border-radius: 5px;
+  }
+  
+  .progress-stats {
+    overflow: hidden;
+  }
+  
+  .raised {
+    float: left;
+  }
+  
+  .goal {
+    float: right;
+  }
+  
+  .percentage {
+    position: absolute;
+    right: 60px;
+    color: #ff4500;
+    font-weight: 600;
+  }
+  
