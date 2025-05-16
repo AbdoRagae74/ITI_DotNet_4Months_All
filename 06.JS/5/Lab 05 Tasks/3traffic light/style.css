@@ -1,0 +1,51 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#all{
+	position: absolute;
+	left: 35%;
+	top:40%;
+
+}
+#state{
+	position: absolute;
+	left: 46%;
+	top:60%;
+
+}
+span{
+	font-size: 20px;
+	font-weight: 600;
+}
+.gray{
+	    background-color: #3f3d3d3d;
+}
+.red{
+	background-color:red;
+}
+
+.yellow{
+	background-color:yellow;
+}
+
+.green{
+	background-color:green;
+}
+
+
+
+.bulb{
+	width: 90px;
+    height: 90px;
+    margin-right: 50px;
+    border-radius: 50%;
+
+    border: 1px solid black;
+}
+
+.red-container , .green-container,.yellow-container{
+	display: inline-block;
+}
