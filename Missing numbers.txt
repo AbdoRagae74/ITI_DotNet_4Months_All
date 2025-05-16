@@ -1,0 +1,4 @@
+1=>OS
+3=> Communication skills
+13=>Freelance
+16=>Windows forms
