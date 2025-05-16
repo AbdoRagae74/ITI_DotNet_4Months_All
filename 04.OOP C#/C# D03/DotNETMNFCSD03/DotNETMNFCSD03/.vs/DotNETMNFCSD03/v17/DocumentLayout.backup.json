@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\engmt\\source\\repos\\DotNETMNFCSD03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB1DADE-0440-4EFB-8611-6EEB5C6132DE}|TryEncapsulation\\TryEncapsulation.csproj|c:\\users\\engmt\\source\\repos\\dotnetmnfcsd03\\tryencapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB1DADE-0440-4EFB-8611-6EEB5C6132DE}|TryEncapsulation\\TryEncapsulation.csproj|solutionrelative:tryencapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB1DADE-0440-4EFB-8611-6EEB5C6132DE}|TryEncapsulation\\TryEncapsulation.csproj|c:\\users\\engmt\\source\\repos\\dotnetmnfcsd03\\tryencapsulation\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB1DADE-0440-4EFB-8611-6EEB5C6132DE}|TryEncapsulation\\TryEncapsulation.csproj|solutionrelative:tryencapsulation\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB1DADE-0440-4EFB-8611-6EEB5C6132DE}|TryEncapsulation\\TryEncapsulation.csproj|c:\\users\\engmt\\source\\repos\\dotnetmnfcsd03\\tryencapsulation\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECB1DADE-0440-4EFB-8611-6EEB5C6132DE}|TryEncapsulation\\TryEncapsulation.csproj|solutionrelative:tryencapsulation\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Complex.cs",
+              "DocumentMoniker": "C:\\Users\\engmt\\source\\repos\\DotNETMNFCSD03\\TryEncapsulation\\Complex.cs",
+              "RelativeDocumentMoniker": "TryEncapsulation\\Complex.cs",
+              "ToolTip": "C:\\Users\\engmt\\source\\repos\\DotNETMNFCSD03\\TryEncapsulation\\Complex.cs",
+              "RelativeToolTip": "TryEncapsulation\\Complex.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA8wCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T09:35:21.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\engmt\\source\\repos\\DotNETMNFCSD03\\TryEncapsulation\\Employee.cs",
+              "RelativeDocumentMoniker": "TryEncapsulation\\Employee.cs",
+              "ToolTip": "C:\\Users\\engmt\\source\\repos\\DotNETMNFCSD03\\TryEncapsulation\\Employee.cs",
+              "RelativeToolTip": "TryEncapsulation\\Employee.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAUwEUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T08:21:52.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\engmt\\source\\repos\\DotNETMNFCSD03\\TryEncapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "TryEncapsulation\\Program.cs",
+              "ToolTip": "C:\\Users\\engmt\\source\\repos\\DotNETMNFCSD03\\TryEncapsulation\\Program.cs",
+              "RelativeToolTip": "TryEncapsulation\\Program.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAAcwN4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T08:09:44.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

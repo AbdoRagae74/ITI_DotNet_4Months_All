@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSFirstLook", "CSFirstLook\CSFirstLook.csproj", "{AD8FE366-DD10-459B-92B8-799220E77856}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{F2EA5E8E-7714-4C43-A423-D14243E1D712}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD8FE366-DD10-459B-92B8-799220E77856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD8FE366-DD10-459B-92B8-799220E77856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD8FE366-DD10-459B-92B8-799220E77856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD8FE366-DD10-459B-92B8-799220E77856}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2EA5E8E-7714-4C43-A423-D14243E1D712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2EA5E8E-7714-4C43-A423-D14243E1D712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2EA5E8E-7714-4C43-A423-D14243E1D712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2EA5E8E-7714-4C43-A423-D14243E1D712}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

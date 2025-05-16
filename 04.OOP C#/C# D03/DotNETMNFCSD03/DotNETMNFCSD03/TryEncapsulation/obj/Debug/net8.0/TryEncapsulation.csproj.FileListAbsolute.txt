@@ -1,0 +1,28 @@
+C:\Users\engmt\source\repos\DotNETMNFCSD03\TryEncapsulation\bin\Debug\net8.0\TryEncapsulation.exe
+C:\Users\engmt\source\repos\DotNETMNFCSD03\TryEncapsulation\bin\Debug\net8.0\TryEncapsulation.deps.json
+C:\Users\engmt\source\repos\DotNETMNFCSD03\TryEncapsulation\bin\Debug\net8.0\TryEncapsulation.runtimeconfig.json
+C:\Users\engmt\source\repos\DotNETMNFCSD03\TryEncapsulation\bin\Debug\net8.0\TryEncapsulation.dll
+C:\Users\engmt\source\repos\DotNETMNFCSD03\TryEncapsulation\bin\Debug\net8.0\TryEncapsulation.pdb
+C:\Users\engmt\source\repos\DotNETMNFCSD03\TryEncapsulation\obj\Debug\net8.0\TryEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\engmt\source\repos\DotNETMNFCSD03\TryEncapsulation\obj\Debug\net8.0\TryEncapsulation.AssemblyInfoInputs.cache
+C:\Users\engmt\source\repos\DotNETMNFCSD03\TryEncapsulation\obj\Debug\net8.0\TryEncapsulation.AssemblyInfo.cs
+C:\Users\engmt\source\repos\DotNETMNFCSD03\TryEncapsulation\obj\Debug\net8.0\TryEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\engmt\source\repos\DotNETMNFCSD03\TryEncapsulation\obj\Debug\net8.0\TryEncapsulation.dll
+C:\Users\engmt\source\repos\DotNETMNFCSD03\TryEncapsulation\obj\Debug\net8.0\refint\TryEncapsulation.dll
+C:\Users\engmt\source\repos\DotNETMNFCSD03\TryEncapsulation\obj\Debug\net8.0\TryEncapsulation.pdb
+C:\Users\engmt\source\repos\DotNETMNFCSD03\TryEncapsulation\obj\Debug\net8.0\TryEncapsulation.genruntimeconfig.cache
+C:\Users\engmt\source\repos\DotNETMNFCSD03\TryEncapsulation\obj\Debug\net8.0\ref\TryEncapsulation.dll
+E:\ITI DotNet\OOP\C# D03\DotNETMNFCSD03\DotNETMNFCSD03\TryEncapsulation\bin\Debug\net8.0\TryEncapsulation.exe
+E:\ITI DotNet\OOP\C# D03\DotNETMNFCSD03\DotNETMNFCSD03\TryEncapsulation\bin\Debug\net8.0\TryEncapsulation.deps.json
+E:\ITI DotNet\OOP\C# D03\DotNETMNFCSD03\DotNETMNFCSD03\TryEncapsulation\bin\Debug\net8.0\TryEncapsulation.runtimeconfig.json
+E:\ITI DotNet\OOP\C# D03\DotNETMNFCSD03\DotNETMNFCSD03\TryEncapsulation\bin\Debug\net8.0\TryEncapsulation.dll
+E:\ITI DotNet\OOP\C# D03\DotNETMNFCSD03\DotNETMNFCSD03\TryEncapsulation\bin\Debug\net8.0\TryEncapsulation.pdb
+E:\ITI DotNet\OOP\C# D03\DotNETMNFCSD03\DotNETMNFCSD03\TryEncapsulation\obj\Debug\net8.0\TryEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI DotNet\OOP\C# D03\DotNETMNFCSD03\DotNETMNFCSD03\TryEncapsulation\obj\Debug\net8.0\TryEncapsulation.AssemblyInfoInputs.cache
+E:\ITI DotNet\OOP\C# D03\DotNETMNFCSD03\DotNETMNFCSD03\TryEncapsulation\obj\Debug\net8.0\TryEncapsulation.AssemblyInfo.cs
+E:\ITI DotNet\OOP\C# D03\DotNETMNFCSD03\DotNETMNFCSD03\TryEncapsulation\obj\Debug\net8.0\TryEncapsulation.csproj.CoreCompileInputs.cache
+E:\ITI DotNet\OOP\C# D03\DotNETMNFCSD03\DotNETMNFCSD03\TryEncapsulation\obj\Debug\net8.0\TryEncapsulation.dll
+E:\ITI DotNet\OOP\C# D03\DotNETMNFCSD03\DotNETMNFCSD03\TryEncapsulation\obj\Debug\net8.0\refint\TryEncapsulation.dll
+E:\ITI DotNet\OOP\C# D03\DotNETMNFCSD03\DotNETMNFCSD03\TryEncapsulation\obj\Debug\net8.0\TryEncapsulation.pdb
+E:\ITI DotNet\OOP\C# D03\DotNETMNFCSD03\DotNETMNFCSD03\TryEncapsulation\obj\Debug\net8.0\TryEncapsulation.genruntimeconfig.cache
+E:\ITI DotNet\OOP\C# D03\DotNETMNFCSD03\DotNETMNFCSD03\TryEncapsulation\obj\Debug\net8.0\ref\TryEncapsulation.dll

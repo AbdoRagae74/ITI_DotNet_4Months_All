@@ -1,0 +1,14 @@
+C:\Users\engmt\source\repos\DotNETMNFCSD02\ProgrammingConcepts\bin\Debug\net8.0\ProgrammingConcepts.exe
+C:\Users\engmt\source\repos\DotNETMNFCSD02\ProgrammingConcepts\bin\Debug\net8.0\ProgrammingConcepts.deps.json
+C:\Users\engmt\source\repos\DotNETMNFCSD02\ProgrammingConcepts\bin\Debug\net8.0\ProgrammingConcepts.runtimeconfig.json
+C:\Users\engmt\source\repos\DotNETMNFCSD02\ProgrammingConcepts\bin\Debug\net8.0\ProgrammingConcepts.dll
+C:\Users\engmt\source\repos\DotNETMNFCSD02\ProgrammingConcepts\bin\Debug\net8.0\ProgrammingConcepts.pdb
+C:\Users\engmt\source\repos\DotNETMNFCSD02\ProgrammingConcepts\obj\Debug\net8.0\ProgrammingConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\engmt\source\repos\DotNETMNFCSD02\ProgrammingConcepts\obj\Debug\net8.0\ProgrammingConcepts.AssemblyInfoInputs.cache
+C:\Users\engmt\source\repos\DotNETMNFCSD02\ProgrammingConcepts\obj\Debug\net8.0\ProgrammingConcepts.AssemblyInfo.cs
+C:\Users\engmt\source\repos\DotNETMNFCSD02\ProgrammingConcepts\obj\Debug\net8.0\ProgrammingConcepts.csproj.CoreCompileInputs.cache
+C:\Users\engmt\source\repos\DotNETMNFCSD02\ProgrammingConcepts\obj\Debug\net8.0\ProgrammingConcepts.dll
+C:\Users\engmt\source\repos\DotNETMNFCSD02\ProgrammingConcepts\obj\Debug\net8.0\refint\ProgrammingConcepts.dll
+C:\Users\engmt\source\repos\DotNETMNFCSD02\ProgrammingConcepts\obj\Debug\net8.0\ProgrammingConcepts.pdb
+C:\Users\engmt\source\repos\DotNETMNFCSD02\ProgrammingConcepts\obj\Debug\net8.0\ProgrammingConcepts.genruntimeconfig.cache
+C:\Users\engmt\source\repos\DotNETMNFCSD02\ProgrammingConcepts\obj\Debug\net8.0\ref\ProgrammingConcepts.dll
