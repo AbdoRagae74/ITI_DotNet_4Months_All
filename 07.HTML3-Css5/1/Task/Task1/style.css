@@ -1,0 +1,569 @@
+/* ======== global style ============ */
+
+* {
+  padding: 0;
+  margin: 0;
+
+}
+
+html {
+  font-family: "Montserrat", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.clear {
+  clear: both;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Josefin Sans", sans-serif;
+}
+
+
+.btn {
+  background-color: #c59c84;
+  color: #fff;
+  padding: 25px 60px;
+  display: inline-block;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+/* =============== header ============= */
+
+
+header {
+  background-color: #fff;
+  z-index: 7;
+  width: 100%;
+  position: fixed;
+}
+
+header .logo {
+  float: left;
+  margin: 30px 0px 0px 60px;
+}
+
+header nav {
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul,
+.visit-us {
+  display: inline-block;
+}
+
+header ul li {
+  display: inline-block;
+  padding: 0px 25px;
+}
+
+header ul li a {
+  font-size: 15px;
+  font-weight: 600;
+  color: #101A31;
+}
+
+.visit-us {
+  background-color: #BE9278;
+  color: #fff;
+  padding: 30px 65px;
+  margin-left: 80px;
+}
+
+
+/* ============ hero section ========= */
+
+.hero-section {
+  height: 850px;
+  /* height: 100vh; */
+  background: linear-gradient(to right, rgba(16, 26, 48, 0.7) 0%, rgba(16, 26, 48, 0.7) 12%, #101a31 91%, #101a31 100%), url("images/h1_hero.png");
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+
+.hero-section .hero-content {
+  position: absolute;
+  color: #fff;
+  left: 10%;
+  top: 20%;
+  width: 40%;
+}
+
+.hero-content img {
+  margin-bottom: 30px;
+}
+
+.hero-content h1 {
+  font-size: 76px;
+  line-height: 83.6px;
+  font-weight:
+    600
+}
+
+.hero-content p {
+  width: 78%;
+  line-height: 30px;
+  margin: 20px 0px 30px 0px;
+}
+
+
+.hero-section .hero-img {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  height: 750px;
+
+}
+
+.hero-img img {
+  height: 100%;
+  width: 660px;
+}
+
+/* =============== Services =============== */
+
+main {
+  width: 80%;
+  margin: 100px auto;
+}
+
+main .offer {
+  display: inline-block;
+  width: 33%;
+}
+
+.offer-img {
+  padding: 40px;
+}
+
+
+.offer img {
+  width: 100%;
+  /* height: 100%; */
+}
+
+.offer-content {
+  padding: 0px 40px;
+  position: relative;
+}
+
+.offer-content span {
+  width: 35px;
+  height: 35px;
+  background-color: #c6a16e;
+  border-radius: 50%;
+  color: #fff;
+  display: inline-block;
+  text-align: center;
+  line-height: 35px;
+  position: absolute;
+  left: -20px;
+  top: 1px;
+}
+
+.offer-content h3 {
+  font-size: 30px;
+  line-height: 45px;
+  font-weight: 600;
+  color: #101A31;
+}
+
+.offer-content p {
+  line-height:
+    30px;
+  color: #101a31;
+  width: 85%;
+}
+
+/* =================== About =========== */
+
+.about {
+  width: 85%;
+  margin: 100px auto;
+  height: 800px;
+  position: relative;
+}
+
+.about-img {
+  position: absolute;
+  z-index: 5;
+  top: 15%;
+
+}
+
+.about-img img {
+  width: 660px;
+  height: 570px;
+}
+
+.about-content {
+  position: absolute;
+  background-color: #f2e1d9;
+  width: 70%;
+  right: 0;
+  height: 100%;
+}
+
+.about-cap {
+  position: absolute;
+  top: 25%;
+  left: 38%;
+}
+
+.about-cap h2 {
+  font-size: 56px;
+  color:
+    #101a31;
+  font-weight:
+    600;
+  line-height:
+    67.2px
+}
+
+.about-cap .first-p {
+  font-size:
+    18px;
+  color:
+    #010a44;
+  line-height:
+    30px;
+  width: 80%;
+  margin-top: 30px;
+}
+
+.about-cap .second-p {
+  color:
+    #10285d;
+  font-size: 14px;
+  line-height:
+    30px;
+  width: 80%;
+  margin: 20px 0px;
+}
+
+/* ============= Categories ================= */
+.categories {
+
+  margin: 100px auto 165px auto;
+}
+
+.categories-container{
+  height : 300px;
+position: relative;
+}
+
+.categories-text {
+  display: inline-block;
+  position: absolute;
+  top: 12%;
+  left: 33%;
+
+}
+
+.categories-text p {
+  width: 75%;
+  line-height: 30px;
+  margin: 20px 15px 30px 0px;
+  line-height: 30px;
+  font-weight: 500;
+  color: #101A31;
+  font-size: 18px;
+  font-family: "Montserrat", sans-serif;
+  text-decoration: none solid rgb(16, 26, 49)  ;
+  text-align: center;
+}
+.categories-text h2 {
+  font-weight: 600;
+  color: #101A31;
+  font-size: 53px;
+
+}
+
+.categories-icons {
+  position: absolute;
+  display: inline-block;
+  width: 77%;
+  top: 73%;
+  left: 15%;
+  margin-bottom: 50px;
+}
+
+.categories .category {
+  display: inline-block;
+  width: 24%;
+}
+
+.categories-icons p{
+  width: 75%;
+  font-weight: 400;
+  font-style: normal;
+  color: #101a31;
+  font-size: 14px;
+  line-height: 1.9;
+  font-family: "Montserrat", sans-serif;
+
+
+}
+
+
+.categories-icons h5{
+  font-weight: 600;
+  font-style: normal;
+  color: #000;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  font-size: 24px;
+  font-family: "Josefin Sans", sans-serif;
+text-transform: capitalize;
+
+}
+
+
+/* ================= Video area ============= */
+
+.video-area{
+  height: 730px;
+  background-image: url(images/video-bg.png.webp);
+  background-size:cover ;
+  background-position: center;
+}
+/* ================= quotes ============= */
+
+.quotes-area{
+  margin: 50px auto;
+  width: 100%;
+display: inline-block;
+}
+.all-quotes{
+  display: inline-block;
+  position: relative;
+  height: 300px;
+  width: 100%;
+}
+.quote{
+  position: absolute;
+  left: 25%;
+  width: 50%;
+  margin: 0 auto;
+  background-image: url(images/quotes-sign.png);
+  background-repeat: no-repeat;
+}
+.active-quote{
+  padding-top: 59px;
+}
+.quote-text{
+  margin:10;
+  font-size:19px;
+  font-weight: 400;
+  color: #010a44;
+  line-height: 1.6;
+  margin-bottom: 15px;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+.author-image {
+  /* width: 80px; */
+  height: 200px;
+  display: inline-block;
+
+}
+.author-info{
+  top: 65%;
+  display: inline-block;
+  position: absolute;
+  left: 24%;
+}
+.author-info span{
+  font-weight: 500;
+  font-family: "Montserrat", sans-serif;
+  color: #1D2547;
+  font-size: 22px;
+
+}
+.author-info p{
+  font-weight: 400;
+  font-family: "Montserrat", sans-serif;
+  color: #646D77;
+  font-size: 14px;
+
+}
+
+/* ================= Instagram ============= */
+
+.instagram-area {
+  width: 85%;
+  margin: 100px auto;
+  height: 800px;
+}
+.instagram-text{
+  position: absolute;
+  left: 28%;
+}
+.instagram-area h2 {
+  font-weight: 600;
+  color: #101A31;
+  font-size: 53px;
+
+}
+.instagram-area p {
+  width: 75%;
+  line-height: 30px;
+  margin: 10px 15px 15px 0px;
+  line-height: 30px;
+  font-weight: 500;
+  color: #101A31;
+  font-size: 18px;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+
+}
+
+.instagram-images{
+  position: relative;
+  top:23%;
+  width: 100%;
+  /* height: 300px; */
+}
+.left-image {
+  position: absolute;
+  left: 6%;
+
+}
+
+.right-image {
+  position: absolute;
+  right: 6%;
+
+}
+/* ================= Footer ============= */
+footer {
+  background-color: #0f1931;
+  color: #fff;
+  padding: 30px 0px;
+  text-align: center;
+  position: relative;
+  height: 600px;
+  background-image: url(images/footer-bg.png.webp);
+  background-position: center;
+  background-size: cover;
+}
+
+.map{
+  top: 10%;
+  width: 50%;
+  position: absolute;
+  height: 300px;
+  left: 0;
+}
+
+.footer-text{
+  top: 10%;
+  width: 50%;
+  position: absolute;
+  height: 300px;
+  right: 0;
+}
+.footer-solutions a{
+/* text-decoration: none; */
+color: #fff;
+}
+
+.footer-solutions h4{
+position: absolute;
+margin-bottom: 30px;
+
+font-size: 24px;
+color: #BE9278;
+font-weight: 600;
+text-align: left;
+width: 160px;
+}
+
+.footer-solutions{
+position: absolute;
+right: 30%;
+}
+
+.footer-solutions ul {
+margin: 15px 0px;
+}
+
+.footer-solutions li {
+margin: 20px 0px;
+}
+
+.footer-contact{
+  position: absolute;
+  left: 20%;
+}
+
+.footer-contact ul{
+  position: absolute;
+  left: 0;
+  margin: 18px 0;
+}
+
+.footer-contact li{
+  margin: 8px auto;
+}
+.footer-contact p {
+  width: 75%;
+  line-height: 30px;
+  margin: 35px 15px 20px 0px;
+  line-height: 30px;
+  font-weight: 400;
+  color: #FFF;
+  font-size: 16px;
+  font-family: "Montserrat", sans-serif;
+  text-align: left;
+
+}
+.footer-contact .logo{
+  position: absolute;
+  margin: 0 0 30px 0px ;
+  top: -5%;
+  left: 0;
+}
+
+.number2 a
+{
+margin-top: 15px;
+position: absolute;
+left: 0;
+font-size: 14px !important;
+color: #BE9278 !important;
+margin-bottom: 23px;
+display: block;
+}
+
+
+.footer-contact a{
+  color: #BE9278;
+  font-family: "Montserrat", sans-serif;
+  font-size: 26px;
+  font-weight: 300;
+}
+
+.text{
+  position: absolute;
+  top:300%;
+  left:45%
+}
+

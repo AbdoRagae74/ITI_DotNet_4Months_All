@@ -1,0 +1,10 @@
+
+
+- geocoding api :
+	https://nominatim.openstreetmap.org/search?format=json&q=Egypt
+	
+
+- reverse geocoding api :
+
+	https://api.bigdatacloud.net/data/reverse-geocode-client?latitude=${myLat}&longitude=&localityLanguage=en
+

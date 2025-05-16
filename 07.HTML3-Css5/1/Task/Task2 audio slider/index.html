@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>audio slider task</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<section>
+    <audio src="media/Anitek_-_Komorebi.mp3" id="current-audio" ></audio>
+    <section class="audio-section">
+        <section class="time">
+            <input type="range" id="audio-time" value="0" >
+        </section>
+    </section>
+    <section class="controls">
+
+   <label>Volume</label>
+    <input type="range" id="audio-volume" min="0" max="1" step="0.1">
+    <br>
+    <br>
+    <button onclick="play()">Play</button>
+    <button onclick="pause()">Pause</button>
+    <br>
+    <br>
+    <button onclick="stop()">Stop</button>
+    <button onclick="mute()">Mute</button>
+    <br>
+    <br>
+    <button onclick="nxt(1)">Next</button>
+    <button onclick="nxt(-1)">Prev</button>
+    <br>
+    <br>
+    <label>Speed</label>
+    <select name="speed" id="audio-speed">
+        <option value="0.5"> 0.5</option>
+        <option value="1" selected> 1</option>
+        <option value="1.5"> 1.5</option>
+        <option value="2"> 2</option>
+    </select>
+</section>
+</section>
+
+  <script src="main.js"></script>
+</body>
+</html>

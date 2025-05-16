@@ -1,0 +1,28 @@
+.audio-section{
+    position: relative;
+    width: 100%;
+}
+.time{
+    position: absolute;
+    width: 80%;
+    margin: 100px auto;
+}
+#audio-time{
+    width: 100%;
+}
+
+.controls{
+    position: absolute;
+    top: 20%;
+}
+
+button {
+    padding: 8px 15px;
+    border: none;
+    border-radius: 4px;
+    background-color: #dfc32681;
+    color: #000;
+    cursor: pointer;
+    font-size: 15px;
+    
+}

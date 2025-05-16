@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Html 5</title>
+  <!-- 
+      html : hypertext markup language.
+
+      tags :
+
+        1- opening closing tag (nested - ruglar) : p , div , span , a
+
+        2- self closing tag (empty , void) : link , hr , br , .....
+      
+      html 5 (latest version): new elements (semantic tags) , new input types and attrs , media tags (audio , video) , graphic tags (canvas , svg) , js apis (local storgae , session storage , geolocation)   
+
+
+      Semantic tags : nav , header , section , article , main , aside , mark , details , .....
+
+        1- Clean code 
+        2- SEO : Search engine optimization
+
+  
+  -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+
+  <!-- ========= header ============= -->
+<header>
+ <a href="#" class="logo"> <img src="images/logo.png" alt=""></a>
+  <nav>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Services</a></li>
+      <li><a href="#">Blog</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+    <a href="#" class="visit-us">Visit us</a>
+  </nav>
+  <section class="clear"></section>
+</header>
+
+
+<!-- ============ hero section ======== -->
+
+  <section class="hero-section">
+    <section class="hero-content">
+      <img src="images/hero-icon.png" alt="">
+      <h1>We make cloths that suit you</h1>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo iusto non assumenda, qui commodi dolores, culpa nihil porro exercitationem, odio sunt.</p>
+      <a href="#" class="btn">our services</a>
+    </section>
+
+    <section class="hero-img">
+      <img src="images/h1_hero1.png" alt="">
+    </section>
+  </section>
+
+
+<!-- ============ hero section ======== -->
+
+<!-- ================ Services =============== -->
+
+
+<main>
+  <section class="offer">
+    <section class="offer-img">
+      <img src="images/offers1.png" alt="">
+    </section>
+    <section class="offer-content">
+      <span>1</span>
+      <h3>Tailor Sweing</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.</p>
+
+    </section>
+  </section>
+  <section class="offer">
+    <section class="offer-img">
+      <img src="images/offers2.png" alt="">
+    </section>
+    <section class="offer-content">
+      <span>2</span>
+      <h3>Mesurement</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.</p>
+
+    </section>
+  </section>
+  <section class="offer">
+    <section class="offer-img">
+      <img src="images/offers3.png" alt="">
+    </section>
+    <section class="offer-content">
+      <span>3</span>
+      <h3>Ready-made</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.</p>
+
+    </section>
+  </section>
+</main>
+
+<!-- =========== About =============== -->
+
+  <section class="about">
+    <section class="about-img">
+      <img src="images/visit_bg.png" alt="">
+    </section>
+    <section class="about-content">
+      <section class="about-cap">
+        <h2>About our <br>
+          tailor house</h2>
+          <p  class="first-p">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.</p>
+
+          <p class="second-p">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.</p>
+          <a href="#" class="btn">more about us</a>
+      </section>
+    </section>
+  </section>
+
+
+  <!-- ============== Form ============ -->
+
+
+  <section class="form">
+    <form >
+
+      <label for="">Username</label>
+      <input type="text" name="username" id="username" placeholder="username" required readonly autocomplete="off" autofocus value="mona">
+      <button onclick="updateVal()" type="button">Update Value</button>
+      <input type="number" name="" id="numIn autop" min="10" max="100">
+
+      <button onclick="up()" type="button">Up</button>
+      <button onclick="down()" type="button">Down</button>
+
+      <input type="range" name="" id="rangeInp" min="0" max="100" step="1">
+
+      <span id="rangeVal"></span>
+      <input type="email" name="" pattern="[a-z0-9]+@[a-z0-9]+\.[a-z]{2,3}" id="">
+
+      <input type="color" name="" id="">
+      <input type="search" name="" id="">
+      <input type="url" name="" id="">
+      <input type="tel" name="" id="">
+
+      <input type="date" name="" id="">
+      <input type="time" name="" id="">
+      <input type="datetime-local" name="" id="">
+      <input type="month" name="" id="">
+      <input type="week" name="" id="">
+      <input type="submit" value="Submit">
+    </form>
+  </section>
+
+  <!-- ========================= media tags ============== -->
+
+
+  <!-- autoplay , muted , loop , src="media/Anitek_-_Komorebi.ogg" -->
+  <section class="media">
+    <audio controls >
+      <source src="media/Anitek_-_Komorebi.ogg">
+      <source src="media/Anitek_-_Komorebi.mp3">
+      Your browser does not support audio
+    </audio>
+    
+    <button onclick="playAud()">Play</button>
+    <button onclick="pauseAud()">Pause</button>
+    <button onclick="stopAud()">Stop</button>
+    <button onclick="muteAud()">mute</button>
+    <button onclick="test()">Test</button>
+    volume:
+    <input type="range" name="" id="volumeInp" min="0" max="1" step="0.1">
+    time :
+    <input type="range" name="" id="timeInp" min="0" step="1">
+   
+    Speed :
+    <select id="speed">
+      <option value=".5">.5</option>
+      <option value="1">1</option>
+      <option value="1.5">1.5</option>
+      <option value="2">2</option>
+    </select>
+  </section>
+  <!-- ================ footer ============== -->
+
+  <footer>This template is made with ❤</footer>
+
+  
+  <script src="main.js"></script>
+</body>
+</html>

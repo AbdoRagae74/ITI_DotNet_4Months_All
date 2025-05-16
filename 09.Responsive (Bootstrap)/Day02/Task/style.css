@@ -1,0 +1,69 @@
+h1,h2,h3,h4,h5,h6{
+    font-size: 32px;
+    font-family: "Raleway", sans-serif;
+    color: rgb(5, 44, 63);
+    font-weight: 700;
+}
+p{
+    font-weight: 400;
+    font-family: "Roboto";
+    font-size:18px;
+    color:#212529;
+}
+a{
+    text-decoration: none;
+    color:#85B0BE   ;
+}
+i{
+    font-size: 2rem;
+}
+
+
+.custom-navbar {
+  background-color: #3498db; 
+}
+
+.preview{
+    background-image: url(https://bootstrapmade.com/content/demo/Vlava/assets/img/hero-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 600px;
+    color:#fff ;
+}
+
+.slider{
+   
+background-image: url(https://bootstrapmade.com/content/demo/Vlava/assets/img/testimonials-bg.jpg);
+  width: 100%;    
+    /* background-repeat: no-repeat; */
+    /* background-position: center; */
+    height: 800px;
+}
+
+.overlay{
+    background-color: rgba(4, 37, 61,.4);
+    width: 100%;
+    height: 81%;
+    position: absolute;
+    
+}
+.custom-button{
+    color:#FFF;
+    border-color: #FFF;    
+}
+.custom-button:hover{
+    background-color: rgb(133, 176, 190);
+}
+
+
+.size {
+    height: 500px;
+}
+
+.image {
+    max-width: 200px; 
+    height: auto;
+}
+
+
