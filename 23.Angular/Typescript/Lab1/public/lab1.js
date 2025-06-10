@@ -119,3 +119,20 @@ manager.addEmp(new Employee(4, "amr", "Ali", 29, 21000, { city: "benha", street:
 manager.addEmp(new Employee(5, "mostafa", "Ali", 29, 22000, { city: "menofia", street: "25 st", zcode: 1256 }));
 manager.addEmp(new Employee(6, "hassan", "Ali", 27, 23000, { city: "alex", street: "25 st", zcode: 255452 }));
 manager.empData(2);
+var Days;
+(function (Days) {
+    Days[Days["saturday"] = 0] = "saturday";
+    Days[Days["sunday"] = 1] = "sunday";
+    Days[Days["monday"] = 2] = "monday";
+    Days[Days["tuesday"] = 3] = "tuesday";
+    Days[Days["wendesday"] = 4] = "wendesday";
+    Days[Days["thursday"] = 5] = "thursday";
+    Days[Days["friday"] = 6] = "friday";
+})(Days || (Days = {}));
+function show(day) {
+    if (day == Days.saturday || day == Days.friday)
+        return "Weekend";
+    else
+        return "Not weekend";
+}
+console.log(show(Days.friday));

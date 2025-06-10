@@ -127,14 +127,12 @@ class Manager extends Employee{
             console.log("Name:" ,emp.fname,emp.lname);
             console.log("Age:" ,emp.age)
             console.log("Salary:", emp.salary);
-            console.log("Address:", emp.address.city, emp.address.street, "zcode",emp.address.zcode);
-            
+            console.log("Address:", emp.address.city, emp.address.street, "zcode",emp.address.zcode);            
         }
     }
 }
 
 let manager = new Manager(1,"ahmed","Ali",25,18000,{city:"Cairo",street:"25 st" , zcode:255452});
-
     manager.addEmp(new Employee(1,"ahmed","Ali",25,18000,{city:"Cairo",street:"25 st" , zcode:123}));
     manager.addEmp(new Employee(2,"mohamed","Ali",26,19000,{city:"Cairo",street:"25 st" , zcode:456}));
     manager.addEmp(new Employee(3,"mona","Ali",27,20000,{city:"port said",street:"25 st" , zcode:789}));
@@ -144,8 +142,21 @@ let manager = new Manager(1,"ahmed","Ali",25,18000,{city:"Cairo",street:"25 st" 
 
 manager.empData(2);
 
+enum Days {
+    saturday,
+    sunday,
+    monday,
+    tuesday,
+    wendesday,
+    thursday,
+    friday
+}
 
-
+function show(day:Days):string{
+    if(day == Days.saturday || day==Days.friday) return "Weekend";
+    else return "Not weekend";   
+}
+console.log(show(Days.friday));
 
 
 
