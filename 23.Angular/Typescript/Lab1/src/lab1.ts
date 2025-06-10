@@ -114,15 +114,20 @@ console.log(emp.getSalary)
 
 //6
 class Manager extends Employee{
+    private emps:Employee[] =[];
+    addEmp (emp:Employee):void{
+        this.emps.push(emp);
+    }
     empData(empID:number){
-        if(this.id == empID)
+        let emp = this.emps.find(e=>e.id == empID);
+        if(emp)
         {
             console.log("Employee Data:");
-            console.log("ID:", this.id);
-            console.log("Name:" ,this.fname,this.lname);
-            console.log("Age:" ,this.age)
-            console.log("Salary:", this.salary);
-            console.log("Address:", this.address.city, this.address.street, "zcode",this.address.zcode);
+            console.log("ID:", emp.id);
+            console.log("Name:" ,emp.fname,emp.lname);
+            console.log("Age:" ,emp.age)
+            console.log("Salary:", emp.salary);
+            console.log("Address:", emp.address.city, emp.address.street, "zcode",emp.address.zcode);
             
         }
     }
@@ -130,7 +135,14 @@ class Manager extends Employee{
 
 let manager = new Manager(1,"ahmed","Ali",25,18000,{city:"Cairo",street:"25 st" , zcode:255452});
 
-manager.empData(1);
+    manager.addEmp(new Employee(1,"ahmed","Ali",25,18000,{city:"Cairo",street:"25 st" , zcode:123}));
+    manager.addEmp(new Employee(2,"mohamed","Ali",26,19000,{city:"Cairo",street:"25 st" , zcode:456}));
+    manager.addEmp(new Employee(3,"mona","Ali",27,20000,{city:"port said",street:"25 st" , zcode:789}));
+    manager.addEmp(new Employee(4,"amr","Ali",29,21000,{city:"benha",street:"25 st" , zcode:485}));
+    manager.addEmp(new Employee(5,"mostafa","Ali",29,22000,{city:"menofia",street:"25 st" , zcode:1256}));
+    manager.addEmp(new Employee(6,"hassan","Ali",27,23000,{city:"alex",street:"25 st" , zcode:255452}));
+
+manager.empData(2);
 
 
 
@@ -152,14 +164,3 @@ manager.empData(1);
 
 
 
-
-
-// let emps:Employee[] =
-//  [
-//     new Employee(1,"ahmed","Ali",25,18000,{city:"Cairo",street:"25 st" , zcode:123}),
-//     new Employee(2,"mohamed","Ali",26,19000,{city:"Cairo",street:"25 st" , zcode:456}),
-//     new Employee(3,"mona","Ali",27,20000,{city:"port said",street:"25 st" , zcode:789}),
-//     new Employee(4,"amr","Ali",29,21000,{city:"benha",street:"25 st" , zcode:485}),
-//     new Employee(5,"mostafa","Ali",29,22000,{city:"menofia",street:"25 st" , zcode:1256}),
-//     new Employee(6,"hassan","Ali",27,23000,{city:"alex",street:"25 st" , zcode:255452}),
-// ]
