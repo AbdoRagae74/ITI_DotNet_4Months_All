@@ -1,0 +1,28 @@
+D:\AHMD\12. Advanced C#\day4\ConsoleApp4\bin\Debug\net9.0\ConsoleApp4.exe
+D:\AHMD\12. Advanced C#\day4\ConsoleApp4\bin\Debug\net9.0\ConsoleApp4.deps.json
+D:\AHMD\12. Advanced C#\day4\ConsoleApp4\bin\Debug\net9.0\ConsoleApp4.runtimeconfig.json
+D:\AHMD\12. Advanced C#\day4\ConsoleApp4\bin\Debug\net9.0\ConsoleApp4.dll
+D:\AHMD\12. Advanced C#\day4\ConsoleApp4\bin\Debug\net9.0\ConsoleApp4.pdb
+D:\AHMD\12. Advanced C#\day4\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+D:\AHMD\12. Advanced C#\day4\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.AssemblyInfoInputs.cache
+D:\AHMD\12. Advanced C#\day4\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.AssemblyInfo.cs
+D:\AHMD\12. Advanced C#\day4\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\AHMD\12. Advanced C#\day4\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.dll
+D:\AHMD\12. Advanced C#\day4\ConsoleApp4\obj\Debug\net9.0\refint\ConsoleApp4.dll
+D:\AHMD\12. Advanced C#\day4\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.pdb
+D:\AHMD\12. Advanced C#\day4\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.genruntimeconfig.cache
+D:\AHMD\12. Advanced C#\day4\ConsoleApp4\obj\Debug\net9.0\ref\ConsoleApp4.dll
+G:\!_LVL++\3 Programming\ITI\!My track - C# Dot Net\Course\12. Advanced C#\day4\ConsoleApp4\bin\Debug\net9.0\ConsoleApp4.exe
+G:\!_LVL++\3 Programming\ITI\!My track - C# Dot Net\Course\12. Advanced C#\day4\ConsoleApp4\bin\Debug\net9.0\ConsoleApp4.deps.json
+G:\!_LVL++\3 Programming\ITI\!My track - C# Dot Net\Course\12. Advanced C#\day4\ConsoleApp4\bin\Debug\net9.0\ConsoleApp4.runtimeconfig.json
+G:\!_LVL++\3 Programming\ITI\!My track - C# Dot Net\Course\12. Advanced C#\day4\ConsoleApp4\bin\Debug\net9.0\ConsoleApp4.dll
+G:\!_LVL++\3 Programming\ITI\!My track - C# Dot Net\Course\12. Advanced C#\day4\ConsoleApp4\bin\Debug\net9.0\ConsoleApp4.pdb
+G:\!_LVL++\3 Programming\ITI\!My track - C# Dot Net\Course\12. Advanced C#\day4\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+G:\!_LVL++\3 Programming\ITI\!My track - C# Dot Net\Course\12. Advanced C#\day4\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.AssemblyInfoInputs.cache
+G:\!_LVL++\3 Programming\ITI\!My track - C# Dot Net\Course\12. Advanced C#\day4\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.AssemblyInfo.cs
+G:\!_LVL++\3 Programming\ITI\!My track - C# Dot Net\Course\12. Advanced C#\day4\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+G:\!_LVL++\3 Programming\ITI\!My track - C# Dot Net\Course\12. Advanced C#\day4\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.dll
+G:\!_LVL++\3 Programming\ITI\!My track - C# Dot Net\Course\12. Advanced C#\day4\ConsoleApp4\obj\Debug\net9.0\refint\ConsoleApp4.dll
+G:\!_LVL++\3 Programming\ITI\!My track - C# Dot Net\Course\12. Advanced C#\day4\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.pdb
+G:\!_LVL++\3 Programming\ITI\!My track - C# Dot Net\Course\12. Advanced C#\day4\ConsoleApp4\obj\Debug\net9.0\ConsoleApp4.genruntimeconfig.cache
+G:\!_LVL++\3 Programming\ITI\!My track - C# Dot Net\Course\12. Advanced C#\day4\ConsoleApp4\obj\Debug\net9.0\ref\ConsoleApp4.dll

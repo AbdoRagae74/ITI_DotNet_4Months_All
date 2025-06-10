@@ -1,0 +1,23 @@
+﻿@model List<TraineeCrsDegreeViewModel>
+
+
+    <h2> Trainee Name : @Model[0].TraineeName</h2>
+<table class="table table-bordered table-hover ">
+    <tr>
+        <td>Course</td>
+        <td> Degree</td>
+        <td>Status </td>
+
+    </tr>
+
+    @foreach (TraineeCrsDegreeViewModel data in Model)
+{ 
+    <tr style="background-color:@data.Color">
+        <td>@data.CrsName</td>
+        <td>@data.CrsDegree</td>
+        <td>@data.status</td>
+    </tr>
+
+}
+
+</table>

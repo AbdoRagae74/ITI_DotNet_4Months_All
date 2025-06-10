@@ -1,0 +1,2 @@
+Scaffold-DbContext "Server=.\sqlexpress;Database=ITI;Trusted_Connection=True;TrustServerCertificate=true“
+Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models

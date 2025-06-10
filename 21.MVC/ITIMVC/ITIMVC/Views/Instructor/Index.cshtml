@@ -1,0 +1,57 @@
+﻿@model List<Instructor>
+
+<input type="text" id="searchbox" placeholder="Enter text to search" />
+
+<table class="table table-bordered table-hover " id="InstructorTables" >
+    <tr>
+        <td>Id</td>
+        <td> Name</td>
+        <td>Image </td>
+        <td>Salary </td>
+        <td> Address</td>
+        <td> Dept </td>
+        <td>Course</td>
+        <td>Instructor Profile</td>
+        <td>Remove</td>
+        
+
+    </tr>
+    @foreach(Instructor item in Model)
+    {
+    
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td> <img src="~/images/@item.Image" width=100 /> </td>
+            <td>@item.Salary</td>
+            <td>@item.Address</td>
+            <td>@item.Dept</td>
+            <td>@item.Course</td>
+            <td> <a href="/instructor/details/@item.Id"  class="btn btn-primary">Profile</a> </td>
+            <form method="post" action="/Instructor/DeleteIns" >
+                <input name="id" value="@item.Id" hidden/>
+            <td> <input type="submit" class="btn btn-danger" value="Remove instructor"  onclick="return confirm('delete?')" /> </td>
+            </form>
+        </tr>
+        
+    }
+</table>
+
+<a href="/Instructor/AddInstructor" class="btn btn-success"> Add Instructor </a>
+
+
+
+<script>
+    const s = document.getElementById("searchbox");
+    
+    s.addEventListener("input", () => {
+        var svalue = encodeURIComponent(s.value);
+        fetch(`/Instructor/SearchResult?searchValue=${svalue}`).then
+            (response => response.text()).then(res => InstructorTables.innerHTML = res);
+    })
+
+
+
+
+
+</script>

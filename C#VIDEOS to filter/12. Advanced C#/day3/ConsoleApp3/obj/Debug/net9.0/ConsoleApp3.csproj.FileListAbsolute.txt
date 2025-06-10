@@ -1,0 +1,14 @@
+D:\AHMD\12. Advanced C#\day3\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.exe
+D:\AHMD\12. Advanced C#\day3\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.deps.json
+D:\AHMD\12. Advanced C#\day3\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.runtimeconfig.json
+D:\AHMD\12. Advanced C#\day3\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.dll
+D:\AHMD\12. Advanced C#\day3\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.pdb
+D:\AHMD\12. Advanced C#\day3\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\AHMD\12. Advanced C#\day3\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.AssemblyInfoInputs.cache
+D:\AHMD\12. Advanced C#\day3\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.AssemblyInfo.cs
+D:\AHMD\12. Advanced C#\day3\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\AHMD\12. Advanced C#\day3\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.dll
+D:\AHMD\12. Advanced C#\day3\ConsoleApp3\obj\Debug\net9.0\refint\ConsoleApp3.dll
+D:\AHMD\12. Advanced C#\day3\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.pdb
+D:\AHMD\12. Advanced C#\day3\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.genruntimeconfig.cache
+D:\AHMD\12. Advanced C#\day3\ConsoleApp3\obj\Debug\net9.0\ref\ConsoleApp3.dll

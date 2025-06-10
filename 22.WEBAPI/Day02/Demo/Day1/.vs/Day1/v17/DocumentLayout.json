@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ITI DotNet\\22.WEBAPI\\Day02\\Demo\\Day1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9D319F-27B0-407E-9844-E7350EC4A08E}|Day1\\Day1.csproj|e:\\iti dotnet\\22.webapi\\day02\\demo\\day1\\day1\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9D319F-27B0-407E-9844-E7350EC4A08E}|Day1\\Day1.csproj|solutionrelative:day1\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9D319F-27B0-407E-9844-E7350EC4A08E}|Day1\\Day1.csproj|e:\\iti dotnet\\22.webapi\\day02\\demo\\day1\\day1\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9D319F-27B0-407E-9844-E7350EC4A08E}|Day1\\Day1.csproj|solutionrelative:day1\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9D319F-27B0-407E-9844-E7350EC4A08E}|Day1\\Day1.csproj|e:\\iti dotnet\\22.webapi\\day02\\demo\\day1\\day1\\mapperconfig\\mappconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9D319F-27B0-407E-9844-E7350EC4A08E}|Day1\\Day1.csproj|solutionrelative:day1\\mapperconfig\\mappconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9D319F-27B0-407E-9844-E7350EC4A08E}|Day1\\Day1.csproj|e:\\iti dotnet\\22.webapi\\day02\\demo\\day1\\day1\\dtos\\studentdto\\readstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9D319F-27B0-407E-9844-E7350EC4A08E}|Day1\\Day1.csproj|solutionrelative:day1\\dtos\\studentdto\\readstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9D319F-27B0-407E-9844-E7350EC4A08E}|Day1\\Day1.csproj|e:\\iti dotnet\\22.webapi\\day02\\demo\\day1\\day1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9D319F-27B0-407E-9844-E7350EC4A08E}|Day1\\Day1.csproj|solutionrelative:day1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReadStudentDTO.cs",
+              "DocumentMoniker": "E:\\ITI DotNet\\22.WEBAPI\\Day02\\Demo\\Day1\\Day1\\DTOs\\StudentDTO\\ReadStudentDTO.cs",
+              "RelativeDocumentMoniker": "Day1\\DTOs\\StudentDTO\\ReadStudentDTO.cs",
+              "ToolTip": "E:\\ITI DotNet\\22.WEBAPI\\Day02\\Demo\\Day1\\Day1\\DTOs\\StudentDTO\\ReadStudentDTO.cs",
+              "RelativeToolTip": "Day1\\DTOs\\StudentDTO\\ReadStudentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T11:20:30.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "E:\\ITI DotNet\\22.WEBAPI\\Day02\\Demo\\Day1\\Day1\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Day1\\Controllers\\DepartmentController.cs",
+              "ToolTip": "E:\\ITI DotNet\\22.WEBAPI\\Day02\\Demo\\Day1\\Day1\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Day1\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:05:31.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ITI DotNet\\22.WEBAPI\\Day02\\Demo\\Day1\\Day1\\Program.cs",
+              "RelativeDocumentMoniker": "Day1\\Program.cs",
+              "ToolTip": "E:\\ITI DotNet\\22.WEBAPI\\Day02\\Demo\\Day1\\Day1\\Program.cs",
+              "RelativeToolTip": "Day1\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T08:53:49.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mappconfig.cs",
+              "DocumentMoniker": "E:\\ITI DotNet\\22.WEBAPI\\Day02\\Demo\\Day1\\Day1\\MapperConfig\\mappconfig.cs",
+              "RelativeDocumentMoniker": "Day1\\MapperConfig\\mappconfig.cs",
+              "ToolTip": "E:\\ITI DotNet\\22.WEBAPI\\Day02\\Demo\\Day1\\Day1\\MapperConfig\\mappconfig.cs",
+              "RelativeToolTip": "Day1\\MapperConfig\\mappconfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T08:52:11.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "studentsController.cs",
+              "DocumentMoniker": "E:\\ITI DotNet\\22.WEBAPI\\Day02\\Demo\\Day1\\Day1\\Controllers\\studentsController.cs",
+              "RelativeDocumentMoniker": "Day1\\Controllers\\studentsController.cs",
+              "ToolTip": "E:\\ITI DotNet\\22.WEBAPI\\Day02\\Demo\\Day1\\Day1\\Controllers\\studentsController.cs",
+              "RelativeToolTip": "Day1\\Controllers\\studentsController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwDEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:35:51.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

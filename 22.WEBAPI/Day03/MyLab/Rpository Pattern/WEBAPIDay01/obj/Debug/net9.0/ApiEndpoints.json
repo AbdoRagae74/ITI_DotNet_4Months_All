@@ -1,0 +1,261 @@
+[
+  {
+    "ContainingType": "WEBAPIDay01.Controllers.DepartmentsController",
+    "Method": "getAll",
+    "RelativePath": "api/Departments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "Summary": "Returns Data of all Departments"
+  },
+  {
+    "ContainingType": "WEBAPIDay01.Controllers.DepartmentsController",
+    "Method": "add",
+    "RelativePath": "api/Departments",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "s",
+        "Type": "WEBAPIDay01.DTOs.DepartmentDTO.DepartmentUpdateDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "Summary": "Adds new department"
+  },
+  {
+    "ContainingType": "WEBAPIDay01.Controllers.DepartmentsController",
+    "Method": "getById",
+    "RelativePath": "api/Departments/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "Summary": "Returns Data of Department by its ID"
+  },
+  {
+    "ContainingType": "WEBAPIDay01.Controllers.DepartmentsController",
+    "Method": "Update",
+    "RelativePath": "api/Departments/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "s",
+        "Type": "WEBAPIDay01.DTOs.DepartmentDTO.DepartmentUpdateDTO",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "Summary": "Update department data"
+  },
+  {
+    "ContainingType": "WEBAPIDay01.Controllers.DepartmentsController",
+    "Method": "delete",
+    "RelativePath": "api/Departments/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "Summary": "Deletes Department by its id"
+  },
+  {
+    "ContainingType": "WEBAPIDay01.Controllers.DepartmentsController",
+    "Method": "getByName",
+    "RelativePath": "api/dept/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WEBAPIDay01.DTOs.DepartmentDTO.GetDeptDataDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 404
+      }
+    ],
+    "Description": "Returns Department data if found otherwise returns Not found ",
+    "Summary": "Returns Department data "
+  },
+  {
+    "ContainingType": "WEBAPIDay01.Controllers.StudentsController",
+    "Method": "getAll",
+    "RelativePath": "api/spage/{page}/{size}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "size",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "Summary": "Pagination "
+  },
+  {
+    "ContainingType": "WEBAPIDay01.Controllers.StudentsController",
+    "Method": "getByName",
+    "RelativePath": "api/stname/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "Summary": "Search"
+  },
+  {
+    "ContainingType": "WEBAPIDay01.Controllers.StudentsController",
+    "Method": "add",
+    "RelativePath": "api/Students",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "s",
+        "Type": "WEBAPIDay01.DTOs.StudentDTO.StudentUpdateDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "Summary": "Add"
+  },
+  {
+    "ContainingType": "WEBAPIDay01.Controllers.StudentsController",
+    "Method": "getById",
+    "RelativePath": "api/Students/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "Summary": "Get By ID"
+  },
+  {
+    "ContainingType": "WEBAPIDay01.Controllers.StudentsController",
+    "Method": "Update",
+    "RelativePath": "api/Students/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "s",
+        "Type": "WEBAPIDay01.DTOs.StudentDTO.StudentUpdateDTO",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "Summary": "Update"
+  },
+  {
+    "ContainingType": "WEBAPIDay01.Controllers.StudentsController",
+    "Method": "delete",
+    "RelativePath": "api/Students/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "Summary": "Delete"
+  },
+  {
+    "ContainingType": "WEBAPIDay01.Controllers.testController",
+    "Method": "getstr",
+    "RelativePath": "api/test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WEBAPIDay01.Controllers.TopicsController",
+    "Method": "getAll",
+    "RelativePath": "api/Topics",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

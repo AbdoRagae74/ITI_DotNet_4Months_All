@@ -1,0 +1,21 @@
+protected override void OnModelCreating(ModelBuilder modelBuilder)
+{
+    modelBuilder.Entity<Author>().HasData(
+        new Author { Id = 1, Name = "Ali Ashraf", Email = "ali@gmial.com" },
+        new Author { Id = 2, Name = "Omar Ahmed", Email = "omar@yahoo.com" },
+        new Author { Id = 3, Name = "Mona Ali", Email = "mona@outlook.com" });
+
+    modelBuilder.Entity<Category>().HasData(
+        new Category { Id = -1, Name = "Politics", Description = "Government, elections, policies" },
+        new Category { Id = -1, Name = "Crime", Description = "Law, police, investigations" },
+        new Category { Id = -1, Name = "Sports", Description = "Games, athletes, competitions" },
+        new Category { Id = -1, Name = "Technology", Description = "Innovations, gadgets, AI" },
+        new Category { Id = -1, Name = "Economy", Description = "Markets, money, companies" });
+
+    modelBuilder.Entity<News>().HasData(
+        new News { Id = -1, Title = "title1", AuthorId = 2, CategoryId = 5 },
+        new News { Id = -1, Title = "title2", AuthorId = 2, CategoryId = 3 },
+        new News { Id = -1, Title = "title3", AuthorId = 1, CategoryId = 4 },
+        new News { Id = -1, Title = "title4", AuthorId = 2, CategoryId = 1 },
+        new News { Id = -1, Title = "title5", AuthorId = 3, CategoryId = 4 });
+}

@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AbdoRagae\\source\\repos\\ITIMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4686E8C3-D853-4CA7-9141-4FCF8CA8870A}|ITIMVC\\ITIMVC.csproj|c:\\users\\abdoragae\\source\\repos\\itimvc\\itimvc\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4686E8C3-D853-4CA7-9141-4FCF8CA8870A}|ITIMVC\\ITIMVC.csproj|solutionrelative:itimvc\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4686E8C3-D853-4CA7-9141-4FCF8CA8870A}|ITIMVC\\ITIMVC.csproj|c:\\users\\abdoragae\\source\\repos\\itimvc\\itimvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4686E8C3-D853-4CA7-9141-4FCF8CA8870A}|ITIMVC\\ITIMVC.csproj|solutionrelative:itimvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4686E8C3-D853-4CA7-9141-4FCF8CA8870A}|ITIMVC\\ITIMVC.csproj|c:\\users\\abdoragae\\source\\repos\\itimvc\\itimvc\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4686E8C3-D853-4CA7-9141-4FCF8CA8870A}|ITIMVC\\ITIMVC.csproj|solutionrelative:itimvc\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4686E8C3-D853-4CA7-9141-4FCF8CA8870A}|ITIMVC\\ITIMVC.csproj|c:\\users\\abdoragae\\source\\repos\\itimvc\\itimvc\\views\\shared\\_newlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4686E8C3-D853-4CA7-9141-4FCF8CA8870A}|ITIMVC\\ITIMVC.csproj|solutionrelative:itimvc\\views\\shared\\_newlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4686E8C3-D853-4CA7-9141-4FCF8CA8870A}|ITIMVC\\ITIMVC.csproj|c:\\users\\abdoragae\\source\\repos\\itimvc\\itimvc\\views\\role\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4686E8C3-D853-4CA7-9141-4FCF8CA8870A}|ITIMVC\\ITIMVC.csproj|solutionrelative:itimvc\\views\\role\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4686E8C3-D853-4CA7-9141-4FCF8CA8870A}|ITIMVC\\ITIMVC.csproj|c:\\users\\abdoragae\\source\\repos\\itimvc\\itimvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4686E8C3-D853-4CA7-9141-4FCF8CA8870A}|ITIMVC\\ITIMVC.csproj|solutionrelative:itimvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4686E8C3-D853-4CA7-9141-4FCF8CA8870A}|ITIMVC\\ITIMVC.csproj|c:\\users\\abdoragae\\source\\repos\\itimvc\\itimvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4686E8C3-D853-4CA7-9141-4FCF8CA8870A}|ITIMVC\\ITIMVC.csproj|solutionrelative:itimvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InstructorController.cs",
+              "DocumentMoniker": "C:\\Users\\AbdoRagae\\source\\repos\\ITIMVC\\ITIMVC\\Controllers\\InstructorController.cs",
+              "RelativeDocumentMoniker": "ITIMVC\\Controllers\\InstructorController.cs",
+              "ToolTip": "C:\\Users\\AbdoRagae\\source\\repos\\ITIMVC\\ITIMVC\\Controllers\\InstructorController.cs",
+              "RelativeToolTip": "ITIMVC\\Controllers\\InstructorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T07:17:12.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\AbdoRagae\\source\\repos\\ITIMVC\\ITIMVC\\Views\\Role\\Create.cshtml",
+              "RelativeDocumentMoniker": "ITIMVC\\Views\\Role\\Create.cshtml",
+              "ToolTip": "C:\\Users\\AbdoRagae\\source\\repos\\ITIMVC\\ITIMVC\\Views\\Role\\Create.cshtml",
+              "RelativeToolTip": "ITIMVC\\Views\\Role\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T06:51:56.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\AbdoRagae\\source\\repos\\ITIMVC\\ITIMVC\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "ITIMVC\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\AbdoRagae\\source\\repos\\ITIMVC\\ITIMVC\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "ITIMVC\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T06:48:19.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\AbdoRagae\\source\\repos\\ITIMVC\\ITIMVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ITIMVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\AbdoRagae\\source\\repos\\ITIMVC\\ITIMVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ITIMVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADcAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T21:08:07.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\AbdoRagae\\source\\repos\\ITIMVC\\ITIMVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ITIMVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\AbdoRagae\\source\\repos\\ITIMVC\\ITIMVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ITIMVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T10:07:22.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_NewLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\AbdoRagae\\source\\repos\\ITIMVC\\ITIMVC\\Views\\Shared\\_NewLayout.cshtml",
+              "RelativeDocumentMoniker": "ITIMVC\\Views\\Shared\\_NewLayout.cshtml",
+              "ToolTip": "C:\\Users\\AbdoRagae\\source\\repos\\ITIMVC\\ITIMVC\\Views\\Shared\\_NewLayout.cshtml",
+              "RelativeToolTip": "ITIMVC\\Views\\Shared\\_NewLayout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAApwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T10:00:25.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AbdoRagae\\source\\repos\\ITIMVC\\ITIMVC\\Program.cs",
+              "RelativeDocumentMoniker": "ITIMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\AbdoRagae\\source\\repos\\ITIMVC\\ITIMVC\\Program.cs",
+              "RelativeToolTip": "ITIMVC\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T09:23:35.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

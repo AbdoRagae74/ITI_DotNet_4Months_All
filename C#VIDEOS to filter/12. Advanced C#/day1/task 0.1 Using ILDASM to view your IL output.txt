@@ -1,0 +1,15 @@
+Step 1: Open ILDASM
+On Windows:
+
+Press Win + R, type ildasm, and hit Enter.
+
+Or navigate to:
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\ildasm.exe
+(Path may vary based on your .NET SDK version.)
+
+Step 2: Load Your Assembly
+In ILDASM, go to File → Open.
+
+Browse to your compiled .exe or .dll (e.g., YourProgram.exe).
+
+Click Open.

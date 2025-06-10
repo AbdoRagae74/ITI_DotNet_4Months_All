@@ -1,0 +1,14 @@
+F:\!_LVL++\3 Programming\ITI\!My track - C# Dot Net\Course\12. Advanced C#\day4\ConsoleApp5\bin\Debug\net9.0\ConsoleApp5.exe
+F:\!_LVL++\3 Programming\ITI\!My track - C# Dot Net\Course\12. Advanced C#\day4\ConsoleApp5\bin\Debug\net9.0\ConsoleApp5.deps.json
+F:\!_LVL++\3 Programming\ITI\!My track - C# Dot Net\Course\12. Advanced C#\day4\ConsoleApp5\bin\Debug\net9.0\ConsoleApp5.runtimeconfig.json
+F:\!_LVL++\3 Programming\ITI\!My track - C# Dot Net\Course\12. Advanced C#\day4\ConsoleApp5\bin\Debug\net9.0\ConsoleApp5.dll
+F:\!_LVL++\3 Programming\ITI\!My track - C# Dot Net\Course\12. Advanced C#\day4\ConsoleApp5\bin\Debug\net9.0\ConsoleApp5.pdb
+F:\!_LVL++\3 Programming\ITI\!My track - C# Dot Net\Course\12. Advanced C#\day4\ConsoleApp5\obj\Debug\net9.0\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+F:\!_LVL++\3 Programming\ITI\!My track - C# Dot Net\Course\12. Advanced C#\day4\ConsoleApp5\obj\Debug\net9.0\ConsoleApp5.AssemblyInfoInputs.cache
+F:\!_LVL++\3 Programming\ITI\!My track - C# Dot Net\Course\12. Advanced C#\day4\ConsoleApp5\obj\Debug\net9.0\ConsoleApp5.AssemblyInfo.cs
+F:\!_LVL++\3 Programming\ITI\!My track - C# Dot Net\Course\12. Advanced C#\day4\ConsoleApp5\obj\Debug\net9.0\ConsoleApp5.csproj.CoreCompileInputs.cache
+F:\!_LVL++\3 Programming\ITI\!My track - C# Dot Net\Course\12. Advanced C#\day4\ConsoleApp5\obj\Debug\net9.0\ConsoleApp5.dll
+F:\!_LVL++\3 Programming\ITI\!My track - C# Dot Net\Course\12. Advanced C#\day4\ConsoleApp5\obj\Debug\net9.0\refint\ConsoleApp5.dll
+F:\!_LVL++\3 Programming\ITI\!My track - C# Dot Net\Course\12. Advanced C#\day4\ConsoleApp5\obj\Debug\net9.0\ConsoleApp5.pdb
+F:\!_LVL++\3 Programming\ITI\!My track - C# Dot Net\Course\12. Advanced C#\day4\ConsoleApp5\obj\Debug\net9.0\ConsoleApp5.genruntimeconfig.cache
+F:\!_LVL++\3 Programming\ITI\!My track - C# Dot Net\Course\12. Advanced C#\day4\ConsoleApp5\obj\Debug\net9.0\ref\ConsoleApp5.dll

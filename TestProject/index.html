@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Sandwich Order</title>
+</head>
+<body>
+
+<h2>Choose Your Sandwiches</h2>
+<form id="orderForm" method="POST" action="submit-order.php">
+    <!-- Sandwich options will load here -->
+</form>
+
+<script>
+fetch('get-sandwiches.php')
+    .then(response => response.json())
+    .then(sandwiches => {
+        const form = document.getElementById('orderForm');
+
+        sandwiches.forEach(sandwich => {
+            const div = document.createElement('div');
+
+            div.innerHTML = `
+                <label>
+                    <input type="checkbox" name="sandwiches[]" value="${sandwich.id}" />
+                    <strong>${sandwich.name}</strong> - $${sandwich.price} <br />
+                    <small>${sandwich.description}</small>
+                </label>
+                Quantity: <input type="number" name="quantity_${sandwich.id}" min="0" value="0" />
+                <br><br>
+            `;
+
+            form.appendChild(div);
+        });
+
+
+        const submitBtn = document.createElement('button');
+        submitBtn.type = 'submit';
+        submitBtn.textContent = 'Place Order';
+        form.appendChild(submitBtn);
+    })
+    .catch(err => {
+        console.error('Failed to load sandwiches:', err);
+    });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,251 @@
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\appsettings.json
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\Day1.staticwebassets.endpoints.json
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\Day1.exe
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\Day1.deps.json
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\Day1.runtimeconfig.json
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\Day1.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\Day1.pdb
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\obj\Debug\net9.0\Day1.csproj.AssemblyReference.cache
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\obj\Debug\net9.0\Day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\obj\Debug\net9.0\Day1.AssemblyInfoInputs.cache
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\obj\Debug\net9.0\Day1.AssemblyInfo.cs
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\obj\Debug\net9.0\Day1.csproj.CoreCompileInputs.cache
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\obj\Debug\net9.0\Day1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\obj\Debug\net9.0\Day1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\obj\Debug\net9.0\scopedcss\bundle\Day1.styles.css
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\obj\Debug\net9.0\staticwebassets\msbuild.Day1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\obj\Debug\net9.0\staticwebassets\msbuild.Day1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\obj\Debug\net9.0\staticwebassets\msbuild.build.Day1.props
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Day1.props
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Day1.props
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\obj\Debug\net9.0\Day1.csproj.Up2Date
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\obj\Debug\net9.0\Day1.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\obj\Debug\net9.0\refint\Day1.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\obj\Debug\net9.0\Day1.pdb
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\obj\Debug\net9.0\Day1.genruntimeconfig.cache
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\obj\Debug\net9.0\ref\Day1.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\efpt.config.json
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day1\Day1\Day1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\appsettings.json
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\efpt.config.json
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Day1.staticwebassets.endpoints.json
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Day1.exe
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Day1.deps.json
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Day1.runtimeconfig.json
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Day1.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Day1.pdb
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\obj\Debug\net9.0\Day1.csproj.AssemblyReference.cache
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\obj\Debug\net9.0\Day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\obj\Debug\net9.0\Day1.AssemblyInfoInputs.cache
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\obj\Debug\net9.0\Day1.AssemblyInfo.cs
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\obj\Debug\net9.0\Day1.csproj.CoreCompileInputs.cache
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\obj\Debug\net9.0\Day1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\obj\Debug\net9.0\Day1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\obj\Debug\net9.0\scopedcss\bundle\Day1.styles.css
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\obj\Debug\net9.0\staticwebassets\msbuild.Day1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\obj\Debug\net9.0\staticwebassets\msbuild.Day1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\obj\Debug\net9.0\staticwebassets\msbuild.build.Day1.props
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Day1.props
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Day1.props
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\obj\Debug\net9.0\Day1.csproj.Up2Date
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\obj\Debug\net9.0\Day1.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\obj\Debug\net9.0\refint\Day1.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\obj\Debug\net9.0\Day1.pdb
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\obj\Debug\net9.0\Day1.genruntimeconfig.cache
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\obj\Debug\net9.0\ref\Day1.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Castle.Core.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+C:\Users\MElshafie\Desktop\WEBAPI\Day2\Day1\Day1\bin\Debug\net9.0\AutoMapper.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\appsettings.Development.json
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\appsettings.json
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\efpt.config.json
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Day1.staticwebassets.endpoints.json
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Day1.exe
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Day1.deps.json
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Day1.runtimeconfig.json
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Day1.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Day1.pdb
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\AutoMapper.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Azure.Core.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Azure.Identity.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Castle.Core.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Newtonsoft.Json.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\System.ClientModel.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\System.Memory.Data.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\obj\Debug\net9.0\Day1.csproj.AssemblyReference.cache
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\obj\Debug\net9.0\Day1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\obj\Debug\net9.0\Day1.AssemblyInfoInputs.cache
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\obj\Debug\net9.0\Day1.AssemblyInfo.cs
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\obj\Debug\net9.0\Day1.csproj.CoreCompileInputs.cache
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\obj\Debug\net9.0\Day1.MvcApplicationPartsAssemblyInfo.cs
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\obj\Debug\net9.0\Day1.MvcApplicationPartsAssemblyInfo.cache
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\obj\Debug\net9.0\Day1.sourcelink.json
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\obj\Debug\net9.0\scopedcss\bundle\Day1.styles.css
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\obj\Debug\net9.0\staticwebassets.build.json
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\obj\Debug\net9.0\staticwebassets.development.json
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\obj\Debug\net9.0\Day1.csproj.Up2Date
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\obj\Debug\net9.0\Day1.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\obj\Debug\net9.0\refint\Day1.dll
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\obj\Debug\net9.0\Day1.pdb
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\obj\Debug\net9.0\Day1.genruntimeconfig.cache
+E:\ITI DotNet\22.WEBAPI\Day02\Demo\Day1\Day1\obj\Debug\net9.0\ref\Day1.dll

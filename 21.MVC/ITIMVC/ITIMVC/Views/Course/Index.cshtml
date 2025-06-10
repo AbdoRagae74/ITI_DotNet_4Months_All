@@ -1,0 +1,52 @@
+﻿@{
+    Layout = "_NewLayout";
+}
+
+@model List<Course>
+
+<input type="text" id="searchbox" placeholder="Enter text to search" />
+
+<table class="table table-bordered table-hover " id="CoursesTable">
+    <tr>
+        <td>Id</td>
+        <td> Name</td>
+        <td>Degree </td>
+        <td>Min Degree </td>
+        <td> Hours</td>
+        <td> Dept </td>
+        <td>Remove</td>
+
+
+    </tr>
+    @foreach (Course item in Model)
+    {
+
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.Degree</td>
+            <td>@item.MinDegree</td>
+            <td>@item.Hours</td>
+            <td>@item.Dept.Name</td>
+            <form method="post" action="/Course/DeleteCourse">
+                <input name="id" value="@item.Id" hidden />
+            <td> <input type="submit" class="btn btn-danger" value="Remove Course" onclick="return confirm('delete?')" /> </td>
+            </form>
+        </tr>
+
+    }
+</table>
+
+<a href="/Course/AddCourse" class="btn btn-success"> Add new Course </a>
+
+
+
+<script>
+    const s = document.getElementById("searchbox");
+    s.addEventListener("input", () => {
+        var svalue = encodeURIComponent(s.value);
+        fetch(`/Course/SearchResult?searchValue=${svalue}`).then
+            (response => response.text()).then(res => CoursesTable.innerHTML = res);
+    })
+
+</script>

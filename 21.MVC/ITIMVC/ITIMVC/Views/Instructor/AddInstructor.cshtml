@@ -1,0 +1,55 @@
+﻿@model InstructorWithCoursesViewModel
+@{
+    ViewData["Title"] = "Add New Instructor";
+}
+
+<h1>Add New Instructor</h1>
+<section >
+
+
+    <form method="post" action="/Instructor/SaveAdd"  enctype="multipart/form-data"  >  
+    <div class="my-2"  >
+        <label>Name</label>
+            <input name="InsName" value="@Model?.InsName" class="form-control" />
+    </div>
+
+    <div class="my-2">
+        <label>Image</label>
+            <input type="file" class="form-control" name="Image" />
+    </div>
+    <div class="my-2">
+        <label>Salary</label>
+            <input name="salary" value="@Model?.Salary" class="form-control" />
+    </div>
+    <div class="my-2">
+        <label>Address</label>
+            <input name="address" value="@Model?.Address" class="form-control" />
+    </div>
+    <div class="my-2">
+        <label>Depratment</label>
+            <select class="form-select" name="DeptId">
+
+                @foreach (Departments item in Model.Departments)
+            {
+                <option value="@item.Id" > @item.Name </option>
+            }
+
+        </select>
+    </div>
+    <div class="my-2">
+        <label>Course</label>
+            <select class="form-select" name="crsId">
+
+        @foreach (Course item in Model.Courses)
+        {
+            <option value="@item.Id"> @item.Name </option>
+        }
+        </select>
+    </div>
+        <input type="submit"  class="btn btn-success"   />
+
+</form>
+</section>
+
+<a href="/instructor/Index" class="btn btn-success my-2" >Back to list</a>
+

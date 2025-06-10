@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AHMD\\19. Entity Framework\\day2\\EFday2Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57452044-C971-490B-AF04-8AB2A54D5A96}|EFday2Task\\EFday2Task.csproj|d:\\ahmd\\19. entity framework\\day2\\efday2task\\efday2task\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57452044-C971-490B-AF04-8AB2A54D5A96}|EFday2Task\\EFday2Task.csproj|solutionrelative:efday2task\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57452044-C971-490B-AF04-8AB2A54D5A96}|EFday2Task\\EFday2Task.csproj|d:\\ahmd\\19. entity framework\\day2\\efday2task\\efday2task\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57452044-C971-490B-AF04-8AB2A54D5A96}|EFday2Task\\EFday2Task.csproj|solutionrelative:efday2task\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57452044-C971-490B-AF04-8AB2A54D5A96}|EFday2Task\\EFday2Task.csproj|d:\\ahmd\\19. entity framework\\day2\\efday2task\\efday2task\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57452044-C971-490B-AF04-8AB2A54D5A96}|EFday2Task\\EFday2Task.csproj|solutionrelative:efday2task\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57452044-C971-490B-AF04-8AB2A54D5A96}|EFday2Task\\EFday2Task.csproj|d:\\ahmd\\19. entity framework\\day2\\efday2task\\efday2task\\newsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57452044-C971-490B-AF04-8AB2A54D5A96}|EFday2Task\\EFday2Task.csproj|solutionrelative:efday2task\\newsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\AHMD\\19. Entity Framework\\day2\\EFday2Task\\EFday2Task\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "EFday2Task\\Models\\Category.cs",
+              "ToolTip": "D:\\AHMD\\19. Entity Framework\\day2\\EFday2Task\\EFday2Task\\Models\\Category.cs",
+              "RelativeToolTip": "EFday2Task\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:48:35.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\AHMD\\19. Entity Framework\\day2\\EFday2Task\\EFday2Task\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "EFday2Task\\Models\\Author.cs",
+              "ToolTip": "D:\\AHMD\\19. Entity Framework\\day2\\EFday2Task\\EFday2Task\\Models\\Author.cs",
+              "RelativeToolTip": "EFday2Task\\Models\\Author.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:48:05.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewsDBContext.cs",
+              "DocumentMoniker": "D:\\AHMD\\19. Entity Framework\\day2\\EFday2Task\\EFday2Task\\NewsDBContext.cs",
+              "RelativeDocumentMoniker": "EFday2Task\\NewsDBContext.cs",
+              "ToolTip": "D:\\AHMD\\19. Entity Framework\\day2\\EFday2Task\\EFday2Task\\NewsDBContext.cs",
+              "RelativeToolTip": "EFday2Task\\NewsDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:22:46.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\AHMD\\19. Entity Framework\\day2\\EFday2Task\\EFday2Task\\Form1.cs",
+              "RelativeDocumentMoniker": "EFday2Task\\Form1.cs",
+              "ToolTip": "D:\\AHMD\\19. Entity Framework\\day2\\EFday2Task\\EFday2Task\\Form1.cs",
+              "RelativeToolTip": "EFday2Task\\Form1.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAFcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:20:09.147Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

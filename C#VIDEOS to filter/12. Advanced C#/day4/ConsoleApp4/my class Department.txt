@@ -1,0 +1,36 @@
+        class Department
+        {
+            public int DeptID { get; set; }
+            public string DeptName { get; set; }
+            List<Employee> Staff;
+            public int? StaffCount()
+            {
+                return Staff?.Count;
+            }
+            public Department(int _DeptID, string _DeptName)
+            {
+                this.DeptID = _DeptID;
+                this.DeptName = _DeptName;
+            }
+            public void AddStaff(Employee E)
+            {
+                if(E.GetAge()<60 && E.VacationStock>0)
+                    Staff.Add(E);
+                ///Try Register for EmployeeLayOff Event Here
+            }
+
+
+            ///CallBackMethod
+            public void RemoveStaff(object sender, EmployeeLayOffEventArgs e)
+            {
+                Employee employee = (Employee)sender;
+                Staff.Remove(employee);
+            }
+        }
+        ////////////////////////////////////////////////////////////////////////////////////////
+
+Main(){
+            Department department1 = new Department(4, "quality");
+            department1.AddStaff(e1);
+            Console.WriteLine($"{department1.DeptName} dep. has {department1.StaffCount()} employee/s");
+}
