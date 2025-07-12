@@ -1,0 +1,94 @@
+<div class="container mt-5">
+  <div class="card shadow border-0">
+    <div class="card-header bg-primary text-white text-center">
+      <h4 class="mb-0">Product List</h4>
+    </div>
+
+    <div class="table-responsive">
+      <table class="table table-hover align-middle mb-0">
+        <thead class="table-light">
+          <tr class="text-center">
+            <th scope="col">ID</th>
+            <th scope="col">Name</th>
+            <th scope="col">Price</th>
+            <th scope="col">Quantity</th>
+            <th scope="col">Actions</th>
+          </tr>
+        </thead>
+        <tbody>
+          @for (prod of products; track prod.id) {
+            <tr class="text-center">
+              <th scope="row" class="fw-normal">{{ prod.id }}</th>
+              <td class="text-capitalize">{{ prod.name }}</td>
+              <td>{{ prod.price | currency }}</td>
+              <td>{{ prod.quantity  }}</td>
+              <td>
+                <i
+                  class="mx-1 text-success fs-5 bi bi-pencil-square"
+                  role="button"
+                  [routerLink]="[prod.id, 'edit']"
+                  title="Edit"
+                ></i>
+                <i
+                  class="mx-1 text-info fs-5 bi bi-eye-fill"
+                  role="button"
+                  [routerLink]="[prod.id]"
+                  title="View"
+                ></i>
+                <i
+                  class="mx-1 text-danger fs-5 bi bi-trash-fill"
+                  role="button"
+                  (click)="deleteProduct(prod.id)"
+                  title="Delete"
+                ></i>
+              </td>
+            </tr>
+          }
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- <div class="container mt-3">
+    <table class="table table-dark">
+  <thead>
+    <tr>
+      <th class ="text-center" scope="col">ID</th>
+      <th class ="text-center" scope="col">Name</th>
+      <th class ="text-center" scope="col">Price</th>
+      <th class ="text-center" scope="col">Actions</th>
+    </tr>
+  </thead>
+  <tbody>
+    @for (prod of filteredProducts; track prod.id) {
+      <tr class="text-center">
+      <th scope="row"> {{prod.id}} </th>
+      <td>{{prod.name}}</td>
+      <td>{{prod.price | currency  }}</td>
+      <td>
+
+        <i
+            class="mx-1 text-success fs-3 bi bi-pencil-fill"
+            [routerLink]="[prod.id,'edit']"
+          ></i>
+          <i
+            class="mx-1 text-warning fs-3 bi bi-eye-fill"
+            [routerLink]="[prod.id]"
+          ></i>
+          <i
+            class="mx-1 text-danger fs-3 bi bi-trash3-fill"
+            (click)="deleteProduct(prod.id)"
+          ></i>
+
+      </td>
+
+    </tr>
+
+    }
+  </tbody>
+</table>
+
+</div> -->

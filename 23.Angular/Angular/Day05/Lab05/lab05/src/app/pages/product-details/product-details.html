@@ -1,0 +1,75 @@
+<div class="container my-5">
+  <div class="p-5 bg-white rounded-4 shadow-lg border-start border-5 border-warning">
+    <h2 class="text-center text-warning mb-4 fw-bold">
+      <i class="bi bi-box-seam-fill me-2"></i>Product Details
+    </h2>
+
+    <ul class="list-unstyled fs-5 px-3">
+      <li class="mb-3">
+        <strong class="text-dark">Product Name:</strong>
+        <span class="text-secondary ms-2">{{ product?.name }}</span>
+      </li>
+      <li class="mb-3">
+        <strong class="text-dark">Product Price:</strong>
+        <span class="text-success ms-2">{{ product?.price | currency }}</span>
+      </li>
+      <li class="mb-3">
+        <strong class="text-dark">Product Quantity:</strong>
+        <span class="text-muted ms-2">{{ product?.quantity }} units</span>
+      </li>
+    </ul>
+
+    <div class="mb-4 text-center">
+      <span class="text-warning fs-4">
+        <i class="bi bi-star-fill mx-1"></i>
+        <i class="bi bi-star-fill mx-1"></i>
+        <i class="bi bi-star-fill mx-1"></i>
+        <i class="bi bi-star-fill mx-1"></i>
+        <i class="bi bi-star-fill mx-1"></i>
+      </span>
+    </div>
+
+    <div class="text-center">
+      <button class="btn btn-outline-success px-4 py-2 rounded-pill shadow-sm"[routerLink]="['/products']">
+        <i class="bi bi-arrow-left-circle me-2"
+          
+        ></i>Back to Products
+      </button>
+    </div>
+  </div>
+</div>
+
+
+<!-- <div class="container my-5">
+  <div class="bg-light text-dark p-5 rounded shadow-lg border border-2 border-warning">
+    <h2 class="text-center text-warning mb-4"> Product Details</h2>
+
+    <ul class="list-unstyled fs-5">
+      <li class="mb-3">
+        <strong> Product Name:  </strong> <span class="text-muted">{{product?.name  }}</span>
+      </li>
+      <li class="mb-3">
+        <strong> Product Price: </strong> <span class="text-success">{{product?.price | currency  }}</span>
+      </li>
+      <li class="mb-3">
+        <strong> Product Quantity: </strong> <span class="text-muted">{{product?.quantity}} units</span>
+      </li>
+    </ul>
+
+    <div class="mb-4">
+      <span class="text-warning fs-4">
+        <i class="bi bi-star-fill mx-1"></i>
+        <i class="bi bi-star-fill mx-1"></i>
+        <i class="bi bi-star-fill mx-1"></i>
+        <i class="bi bi-star-fill mx-1"></i>
+        <i class="bi bi-star-fill mx-1"></i>
+      </span>
+    </div>
+
+    <div class="text-center">
+      <button class="btn btn-outline-success px-4 py-2">
+        <i class="bi bi-backspace"></i> Back to Products
+      </button>
+    </div>
+  </div>
+</div> -->

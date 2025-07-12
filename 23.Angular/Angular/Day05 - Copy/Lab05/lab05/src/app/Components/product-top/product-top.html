@@ -1,0 +1,18 @@
+<div class="container mt-5">
+
+<h1 class="text-center text-muted mb-3">Our Products</h1>
+<div
+  class="alert alert-light d-flex justify-content-between align-items-center"
+>
+  <div>
+    <button class="btn btn-outline-dark"
+    [routerLink]="['add/new']" >
+      Add new Product
+    </button>
+  </div>
+  <div class="d-flex justify-content-between">
+    <input type="text" #inp class="form-control w-50" placeholder="Search ..." />
+    <button (click)="search(inp.value)" class="btn btn-success">Filter</button>
+  </div>
+</div>
+</div>

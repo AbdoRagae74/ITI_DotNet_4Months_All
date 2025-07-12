@@ -1,0 +1,38 @@
+<div class="container mt-5">
+    <div class="row g-3">
+      <div class="col-md-6">
+        <input type="text" class="form-control" placeholder="Enter Movie Name"
+        #name
+        >
+      </div>
+      <div class="col-md-6">
+        <input type="text" class="form-control" placeholder="Enter Movie Description"
+        #desc
+        >
+      </div>
+      <div class="col-md-6">
+        <input type="text" class="form-control" placeholder="Enter Movie Author"
+        #author
+        >
+      </div>
+      <div class="col-md-6">
+        <input type="number" class="form-control" placeholder="Enter Movie Rate"
+        #rate
+        >
+      </div>
+      <div class="col-md-6">
+        <input type="text" class="form-control"
+        #file
+        >
+      </div>
+      <div class="col-md-6">
+        <input type="text" class="form-control" placeholder="Enter Movie Category"
+        #category
+        >
+      </div>
+      <div class="col-12">
+        <input type="button" class="btn btn-primary w-100" (click)="Add(name.value,desc.value,author.value,rate.value,file.value,category.value)"  value="Add Movie">
+                                                                      
+      </div>
+    </div>
+  </div>

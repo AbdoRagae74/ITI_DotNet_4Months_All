@@ -1,0 +1,8 @@
+
+@if(flag)
+{<app-profile [data]="userdata" (reg)="logout($event)"  />}
+
+@else
+{
+    <app-register-form (emailData)="getData($event)" />
+}

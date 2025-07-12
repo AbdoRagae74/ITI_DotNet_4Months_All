@@ -1,0 +1,52 @@
+        <!-- (change)="filter()" -->
+         <!-- (input)="searchMovie()" -->
+
+<app-form  (allMovies)="getMovies($event)"  (allCateg)="getCateg($event)"  />
+
+<div class="m-5">
+    <h1>Movies List</h1>
+  
+    <div class="row">
+      <div class="col-12 d-flex justify-content-between">
+        <select
+        class="form-select w-25"
+        [(ngModel)] = "SelectedCategory"
+        (change)="filter()"
+        >
+        <option >All</option>
+        @for (categ of Categories; track $index) {
+            <option>{{categ}}</option>
+        }
+        </select>
+
+        <input type="text" class="form-control w-25" (input)="searchMovie()" [(ngModel)] = "srchtxt" placeholder="Search" >
+      </div>
+    </div>
+  </div>
+
+  
+  <div class="row">
+    @for (movie of filterdMovies; track $index) {
+      <div class="col-md-4 mb-4">
+           @if (+movie.rate >= 8) {
+                <span class="badge bg-success  top-0 end-0 m-2">Recommended</span>
+              }
+        <img [src]="movie.file" class="card-img-top" alt="Movie Image" style="width: 100%;">
+          <div class="card-body">
+            <h5 class="card-title">{{movie.name}}</h5>
+            <p class="card-text mb-1"><strong>Author:</strong> {{movie.author}}</p>
+            <p class="card-text mb-1"><strong>Rate:</strong> {{movie.rate}}</p>
+            @if (+movie.rate < 5) {
+                <p class="fs-5 rounded bg-warning">Not Recommnded</p>}
+                
+           
+            <p class="card-text"><strong>Description:</strong> {{movie.desc}}</p>
+            <button class="btn btn-danger" (click)="remove($index)" >Remove</button>
+          </div>
+      </div>
+    } @empty {
+      <div class="alert alert-warning">No Movies</div>
+    }
+  </div>
+
+  

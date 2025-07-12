@@ -1,0 +1,85 @@
+<div class="container mt-5">
+    <div class="row g-3">
+      <div class="col-md-6">
+        <input type="text" class="form-control" placeholder="Enter Movie Name"
+        [(ngModel)]="Name"
+        >
+      </div>
+      <div class="col-md-6">
+        <input type="text" class="form-control" placeholder="Enter Movie Description"
+        [(ngModel)]="Desc"
+        >
+      </div>
+      <div class="col-md-6">
+        <input type="text" class="form-control" placeholder="Enter Movie Author"
+        [(ngModel)]="Author"
+        >
+      </div>
+      <div class="col-md-6">
+        <input type="number" class="form-control" placeholder="Enter Movie Rate"
+        [(ngModel)]="Rate"
+        >
+      </div>
+      <div class="col-md-6">
+        <input type="text" class="form-control"
+        [(ngModel)]="File"
+        >
+      </div>
+      <div class="col-md-6">
+        <input type="text" class="form-control" placeholder="Enter Movie Category"
+        [(ngModel)]="Category"
+        >
+      </div>
+      <div class="col-12">
+        <input type="button" class="btn btn-primary w-100" (click)="Add()"  value="Add Movie">
+      </div>
+    </div>
+  </div>
+
+  <div class="m-5">
+    <h1>Movies List</h1>
+  
+    <div class="row">
+      <div class="col-12 d-flex justify-content-between">
+        <select
+        class="form-select w-25"
+        [(ngModel)] = "SelectedCategory"
+        (change)="filter()"
+        >
+        <option >All</option>
+        @for (categ of Categories; track $index) {
+            <option>{{categ}}</option>
+        }
+        </select>
+
+        <input type="text" class="form-control w-25" (input)="searchMovie()" [(ngModel)] = "srchtxt" placeholder="Search" >
+      </div>
+    </div>
+  </div>
+
+
+  <div class="row">
+    @for (movie of filterdMovies; track $index) {
+      <div class="col-md-4 mb-4">
+        <div class="card" >
+            @if (movie.Rate >= 8) {
+                <span class="badge bg-success position-absolute top-0 end-0 m-2">Recommended</span>
+              }
+          <img [src]="movie.File" class="card-img-top" alt="Movie Image" style="width: 100%;">
+          <div class="card-body">
+            <h5 class="card-title">{{movie.Name}}</h5>
+            <p class="card-text mb-1"><strong>Author:</strong> {{movie.author}}</p>
+            <p class="card-text mb-1"><strong>Rate:</strong> {{movie.Rate}}</p>
+            @if (movie.Rate < 5) {
+                <p class="fs-5 rounded bg-warning">Not Recommnded</p>}
+           
+            <p class="card-text"><strong>Description:</strong> {{movie.Desc}}</p>
+            <button class="btn btn-danger" (click)="remove($index)" >Remove</button>
+          </div>
+        </div>
+      </div>
+    } @empty {
+      <div class="alert alert-warning">No Movies</div>
+    }
+  </div>
+  

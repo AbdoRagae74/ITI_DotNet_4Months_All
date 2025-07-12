@@ -1,0 +1,17 @@
+.service-item .service-icon {
+    width: 90px;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.service-item .service-icon img {
+    max-width: 60px;
+    max-height: 60px;
+    
+}
+
+.service-icon{
+    background-color: #FF800F;
+}

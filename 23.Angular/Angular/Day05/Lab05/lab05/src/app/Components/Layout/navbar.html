@@ -1,0 +1,48 @@
+<nav class="navbar navbar-light bg-light">
+  <div class="container">
+    <a class="navbar-brand fw-bold text-primary fs-3 d-flex align-items-center gap-2" href="#">
+  <i class="bi bi-bag-check-fill"></i>   Shop
+</a>
+
+    <ul class="nav">
+      <li class="nav-item">
+        <a class="nav-link active" 
+        [routerLink]="['/home']"
+        [routerLinkActive]="'text-danger'"
+        >Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link"
+        [routerLink]="['/products']"
+        [routerLinkActive]="'text-danger'"
+        [routerLinkActiveOptions]="{exact:true}"
+        >Products</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" 
+            [routerLink]="['/products/add/new']"
+            [routerLinkActive]="'text-danger'"
+            [routerLinkActiveOptions]="{exact:true}"
+        
+        >Add Product</a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
+          Account
+        </a>
+        <ul class="dropdown-menu">
+          <li><a class="dropdown-item" 
+            [routerLink]="['/account/login']"
+            [routerLinkActive]="'text-danger'"
+            
+            >Login</a></li>
+          <li><a class="dropdown-item" 
+            [routerLink]="['/account/register']"
+            [routerLinkActive]="'text-danger'"
+
+            >Register</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</nav>

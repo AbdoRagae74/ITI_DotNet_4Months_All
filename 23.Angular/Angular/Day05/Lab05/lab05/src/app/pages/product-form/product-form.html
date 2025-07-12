@@ -1,0 +1,140 @@
+<div class="container my-5 d-flex justify-content-center">
+  <div class="card shadow p-4 w-100" style="max-width: 600px;">
+    <h2 class="text-center text-primary mb-4">
+      @if(id == null) { Add New Product } @else { Update Product }
+    </h2>
+
+    <form [formGroup]="productForm" (submit)="addNewProduct()">
+
+      <div class="mb-3">
+        <label for="productName" class="form-label fw-semibold">Product Name</label>
+        <div class="input-group">
+          <span class="input-group-text"><i class="bi bi-tag"></i></span>
+          <input
+            type="text"
+            class="form-control"
+            id="productName"
+            formControlName="name"
+            placeholder="Name"
+          />
+        </div>
+        @if(getName.touched) {
+          @if(getName.hasError('required')) {
+            <div class="text-danger mt-1">Product Name is required</div>
+          }
+          @if(getName.hasError('minlength')) {
+            <div class="text-danger mt-1">Name must be longer than 3 characters</div>
+          }
+        }
+      </div>
+
+
+      <div class="mb-3">
+        <label for="productPrice" class="form-label fw-semibold">Product Price</label>
+        <div class="input-group">
+          <span class="input-group-text"><i class="bi bi-currency-dollar"></i></span>
+          <input
+            type="number"
+            class="form-control"
+            id="productPrice"
+            placeholder="price"
+            formControlName="price"
+          />
+        </div>
+        @if(getPrice.touched) {
+          @if(getPrice.hasError('required')) {
+            <div class="text-danger mt-1">Product Price is required</div>
+          }
+        }
+      </div>
+
+      <div class="mb-3">
+        <label for="productQuantity" class="form-label fw-semibold">Product Quantity</label>
+        <div class="input-group">
+          <span class="input-group-text"><i class="bi bi-box-seam"></i></span>
+          <input
+            type="number"
+            class="form-control"
+            id="productQuantity"
+            placeholder="qty"
+            formControlName="quantity"
+          />
+        </div>
+        @if(getQuantity.touched) {
+          @if(getQuantity.hasError('required')) {
+            <div class="text-danger mt-1">Product Quantity is required</div>
+          }
+        }
+      </div>
+
+      <button type="submit" (click)="handleFormButton()" class="btn btn-primary w-100 mt-3">
+        @if(id == null) { Add Product } @else { Update Product }
+      </button>
+    </form>
+  </div>
+</div>
+
+
+<!-- <div class="container mt-5">
+  <h1 class="text-center text-muted mb-4">Add New Product</h1>
+  <form [formGroup]="productForm" (submit)="addNewProduct()">
+    <div class="mb-3">
+      <label for="exampleInputEmail1" class="form-label">Product Name</label>
+      <input
+        type="text"
+        class="form-control"
+        id="exampleInputEmail1"
+        formControlName="name"
+        aria-describedby="emailHelp"
+        placeholder="Enter Product Name"
+      />
+
+      @if(getName.touched){ @if(getName.hasError('required')){
+      <div id="emailHelp" class="form-text text-danger">
+        Product Name is Required
+      </div>
+      } @if(getName.hasError('minlength')){
+      <div id="emailHelp" class="form-text text-danger">
+        Product Name length must be > 3
+      </div>
+      } }
+    </div>
+    <div class="mb-3">
+      <label for="exampleInputPassword1" class="form-label"
+        >Enter Product Price</label
+      >
+      <input
+        type="number"
+        placeholder="Enter Product Price"
+        class="form-control"
+        formControlName="price"
+        id="exampleInputPassword1"
+      />
+      @if(getPrice.touched){ @if(getPrice.hasError('required')){
+      <div id="emailHelp" class="form-text text-danger">
+        Product Price is Required
+      </div>
+      } }
+    </div>
+    <div class="mb-3">
+      <label for="exampleInputPassword3" class="form-label"
+        >Enter Product Quantity</label
+      >
+      <input
+        type="number"
+        placeholder="Enter Product Quantity"
+        class="form-control"
+        formControlName="quantity"
+        id="exampleInputPassword3"
+      />
+      @if(getQuantity.touched){ @if(getQuantity.hasError('required')){
+      <div id="emailHelp" class="form-text text-danger">
+        Product Quantity is Required
+      </div>
+      } }
+    </div>
+    <p class="lead">{{productForm.value | json}}</p>
+
+    <button type="submit" (click)="handleFormButton()"  class="btn btn-dark"> @if(id==null) {Add new Product} @else {Update Product}</button>
+  </form>
+</div> -->

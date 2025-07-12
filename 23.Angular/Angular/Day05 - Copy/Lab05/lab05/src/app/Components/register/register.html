@@ -1,0 +1,89 @@
+<div class="container d-flex justify-content-center align-items-center" >
+  <div class="card shadow-sm p-4 rounded-4 w-100" style="max-width: 480px;">
+    <h2 class="text-center text-primary mb-4">Create New Account</h2>
+
+    <form>
+      <div class="mb-3">
+        <label for="username" class="form-label fw-semibold">Username</label>
+        <input
+          type="text"
+          class="form-control rounded-3"
+          id="username"
+          placeholder="Enter your username"
+        />
+      </div>
+
+      <div class="mb-3">
+        <label for="email" class="form-label fw-semibold">Email</label>
+        <input
+          type="email"
+          class="form-control rounded-3"
+          id="email"
+          placeholder="Enter your email"
+        />
+      </div>
+
+      <div class="mb-4">
+        <label for="password" class="form-label fw-semibold">Password</label>
+        <input
+          type="password"
+          class="form-control rounded-3"
+          id="password"
+          placeholder="Enter your password"
+        />
+      </div>
+
+      <div class="d-grid">
+        <button type="submit" class="btn btn-success rounded-3">Register</button>
+      </div>
+
+      <p class="text-center mt-4">
+        Already have an account?
+        <a [routerLink]="['/account/login']" class="text-decoration-none text-primary fw-medium">
+          Log in
+        </a>
+      </p>
+    </form>
+  </div>
+</div>
+
+
+<!-- <div class="container">
+<h2>Register Form</h2>
+<form>
+  <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">Username</label>
+    <input
+      type="text"
+      class="form-control"
+      id="exampleInputEmail1"
+      aria-describedby="emailHelp"
+      placeholder="Enter Username"
+    />
+  </div>
+  <div class="mb-3">
+    <label for="exampleInputEmail4" class="form-label">Email</label>
+    <input
+      type="email"
+      class="form-control"
+      id="exampleInputEmail4"
+      aria-describedby="emailHelp"
+      placeholder="Enter Email"
+    />
+  </div>
+  <div class="mb-3">
+    <label for="exampleInputPassword1" class="form-label">Password</label>
+    <input
+      type="password"
+      class="form-control"
+      id="exampleInputPassword1"
+      placeholder="Enter User Password"
+    />
+  </div>
+
+  <p>Already Have an Account ?<a [routerLink]="['/account/login']">Login</a></p>
+  <button type="submit" class="btn btn-dark d-block w-100">Register</button>
+</form>
+
+
+</div> -->
